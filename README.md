@@ -1,14 +1,22 @@
-# Week 1: Zachte en harde datavisualisaties
+# Datavisualisatie
+
+# Dataviz 1
+
+# Dataviz 2
 
 ## Week 1: Zachte en harde datavisualisaties
 
 ## Hoorcollege 1 september
 
-### Yordi Dam
+### Data walk
+
+### Hoorcollege, dinsdag 1 september
+
+#### Yordi Dam: Harde datavisualisaties
 
 Met datavisualisatie kan je verhalen vertellen die met tekst moeilijk te vertellen zijn. Yordi doet dit in Localfocus; een datavisualisatietool gemaakt door Yordi en zijn vrienden.
 
-#### extragratistips
+##### extragratistips
 
 1. Stel 1 goede vraag om je data te kunnen visualiseren. Zorg ervoor dat deze erg gericht is. Less = more.
 2. Denk aan je publiek. Complexe of artistieke visuals maken kan uiteraard wel, maar niet voor een algemeen publiek.
@@ -19,9 +27,9 @@ Met datavisualisatie kan je verhalen vertellen die met tekst moeilijk te vertell
 
 Waarom visualiseren?
 
-* Patronen, trends en uitschieters worden zichtbaar
-* Het helpt bij het analyseren van data
-* Met een visualisatie krijg je een veel beter beeld over wat de data je vertelt, en wat jij met de data kan vertellen.
+- Patronen, trends en uitschieters worden zichtbaar
+- Het helpt bij het analyseren van data
+- Met een visualisatie krijg je een veel beter beeld over wat de data je vertelt, en wat jij met de data kan vertellen.
 
 De Y-as afbreken is 99% van de tijd niet nodig, dus niet doen als het niet nodig is.
 
