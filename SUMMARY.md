@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Datavisualisatie 2](README.md)
-* [Datavisualisatie 1](datavisualisatie-1.md)
+* [Information Design](README.md)
+* [Datavisualisatie 1](dv-1.md)
+* [Datavisualisatie 2](dv-2.md)
 

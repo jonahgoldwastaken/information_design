@@ -1,2 +1,0 @@
-# Datavisualisatie 1
-
