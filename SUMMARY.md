@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Week 1: Zachte en harde datavisualisaties](README.md)
+* [Datavisualisatie 2](README.md)
+* [Datavisualisatie 1](datavisualisatie-1.md)
 
