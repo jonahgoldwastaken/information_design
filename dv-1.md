@@ -9,7 +9,12 @@ description: Procesboek voor het vak datavisualisatie 1
 Toets 1 gaat over het vergaren van informatie over een bepaald onderwerp. Dat onderwerp spit je eerst door d.m.v. alle aspecten in een mindmap te zetten. Je gaat dieper in op de verschillende aspecten, en probeert zo punten te vinden die je kan tackelen met een simpele onderzoeksvraag.
 
 Voor Toets 1 heb ik het onderwerp "Privacy" gekregen. Dit onderwerp heb ik doorgewerkt en deze mindmap hieronder:
-![Eerste versie mindmap over mindmap privacy](./privacymindmap_v1.png)
+
+![Eerste versie mindmap over privacy](./privacymindmap_v1.png)
+
+Op deze mindmap kreeg ik de feedback om verder in te gaan op de "controverses", waar ik dit onder verstond:
+
+![Tweede versie mindmap over privacy](./privacymindmap_v2.png)
 
 ### De zoektocht
 
@@ -55,3 +60,7 @@ Voor Toets 1 heb ik het onderwerp "Privacy" gekregen. Dit onderwerp heb ik doorg
   - "privacy legislation" filetype:csv
   - privacy legislation filetype:csv
   - privacy handhaving filetype:csv
+
+Nu ik dit heb gedocumenteerd ben ik erachter gekomen dat het onderwerp wat ik heb uitgekozen helemaal niet de resultaten biedt die ik verwachtte. Het wordt dus tijd om terug te gaan naar de tekentafel en de mindmap opnieuw uit te werken. Ik heb veel overbodige knopen uit de mindmap gehaald, en me gefocust op iets wat _erg_ recentelijk is: Het coronavirus en de app die voor het bron- en contactonderzoek wordt ontwikkeld. Door deze wending is de mindmap uiteindelijk er zo uit te komen zien:
+
+![Derde versie mindmap over privacy](./privacymindmap_v3.png)
