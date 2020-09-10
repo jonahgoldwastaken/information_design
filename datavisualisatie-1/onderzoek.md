@@ -1,22 +1,8 @@
----
-description: Procesboek voor het vak datavisualisatie 1
----
+# Onderzoek
 
-# Datavisualisatie 1
+## Probleemstelling 1
 
-## Toets 1
-
-Toets 1 gaat over het vergaren van informatie over een bepaald onderwerp. Dat onderwerp spit je eerst door d.m.v. alle aspecten in een mindmap te zetten. Je gaat dieper in op de verschillende aspecten, en probeert zo punten te vinden die je kan tackelen met een simpele onderzoeksvraag.
-
-Voor Toets 1 heb ik het onderwerp "Privacy" gekregen. Dit onderwerp heb ik doorgewerkt en deze mindmap hieronder:
-
-![Eerste versie mindmap over privacy][image-1]
-
-Op deze mindmap kreeg ik de feedback om verder in te gaan op de "controverses", waar ik dit onder verstond:
-
-![Tweede versie mindmap over privacy][image-2]
-
-### De zoektocht
+Dit is het logboek wat ik heb bijgehouden voor de eerste probleemstelling die ik had opgesteld. Ik heb halverwege het onderzoek gestaakt, omdat het erop leek dat ik niet veel informatie zou vinden die me kon helpen tot een conclusie te komen. [Klik hier om door te gaan naar probleemstelling 2](#probleemstelling-2).
 
 | Zoekvraag          |                                                                                                                                                  |
 | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,16 +15,16 @@ Op deze mindmap kreeg ik de feedback om verder in te gaan op de "controverses", 
 | **Synoniemen**                                 | **Synoniemen**                                            | **Synoniemen**             | **Synoniemen**                   | **Synoniemen**                                    |
 | Wetgeving, hoorzittingen, handhaving, sluiting | Overgave, overgeven, onderdoor gaan, onderwerpen, meegaan | Ondernemingen, corporaties | Geheimhouding, bewegingsvrijheid | Garanderen, verzekeren, beschermen, zeker stellen |
 
-| Gebruikte bronnen | Gebruikte zoektermen + operatoren                                                                                                   | Gevonden referentie                                                                                                                                          | Datum            |     |
-| :---------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------- | :-- |
-| NexisUni          | privacy and law or wetgeving, na 1 januari 2015 in het Nederlands                                                                   | [Broekhuizen, K. \(2018, 19 april\). Wetgeving voor privacy onvermijdelijk na twee hoorzittingen. het Financieel Dagblad, 14.][1]                            | 7 september 2020 |     |
-|                   | '', gesorteerd op oud -&gt; nieuw                                                                                                   | [Dagblad van het Noorden. \(2015, 6 januari\). Inzage terroristenlijst mag. Dagblad van het Noorden, 8.][2]                                                  | 8 september 2020 |     |
-|                   | ''                                                                                                                                  | [Ferdinandusse, W. \(2015, 15 januari\). Charlie Hebdo toont belang bewaarplicht telecomgegevens. NRC Handelsblad, 9.][3]                                    |                  |     |
-|                   | privacy and waarborgen or waarborgin or garanderen, na 1 januari 2018, bronnen het NRC, het FD en de Volkskrant kranten en websites | [de Ruiter, M. \(2020, 25 augustus\). Horecaondernemers moeten persoonsgegevens registreren en bewaren, maar aan privacy is niet gedacht. de Volkskrant.][4] |                  |     |
+| Gebruikte bronnen | Gebruikte zoektermen + operatoren                                                                                                   | Gevonden referentie                                                                                                                                          | Datum            |
+| :---------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
+| Nexis Uni         | privacy and law or wetgeving, na 1 januari 2015 in het Nederlands                                                                   | [Broekhuizen, K. \(2018, 19 april\). Wetgeving voor privacy onvermijdelijk na twee hoorzittingen. het Financieel Dagblad, 14.][1]                            | 7 september 2020 |
+| Nexis Uni         | '', gesorteerd op oud -&gt; nieuw                                                                                                   | [Dagblad van het Noorden. \(2015, 6 januari\). Inzage terroristenlijst mag. Dagblad van het Noorden, 8.][2]                                                  | 8 september 2020 |
+| Nexis Uni         | ''                                                                                                                                  | [Ferdinandusse, W. \(2015, 15 januari\). Charlie Hebdo toont belang bewaarplicht telecomgegevens. NRC Handelsblad, 9.][3]                                    | 8 september 2020 |
+| Nexis Uni         | privacy and waarborgen or waarborgin or garanderen, na 1 januari 2018, bronnen het NRC, het FD en de Volkskrant kranten en websites | [de Ruiter, M. \(2020, 25 augustus\). Horecaondernemers moeten persoonsgegevens registreren en bewaren, maar aan privacy is niet gedacht. de Volkskrant.][4] | 8 september 2020 |
 
-#### Zoekgeschiedenis
+### Zoekgeschiedenis
 
-- NexisUni
+- Nexis Uni
   - privacy and law or wetgeving, na 1 januari 2015 in het Nederlands
   - privacy and law or wetgeving, na 1 januari 2015 in het Nederlands, gesorteerd van oud -&gt; nieuw
   - privacy and waarborgen or waarborgin or garanderen, na 1 januari 2018, bronnen het NRC, het FD en de Volkskrant kranten en websites
@@ -61,15 +47,7 @@ Op deze mindmap kreeg ik de feedback om verder in te gaan op de "controverses", 
   - privacy legislation filetype:csv
   - privacy handhaving filetype:csv
 
-### Regroup
-
-Nu ik dit heb gedocumenteerd ben ik erachter gekomen dat het onderwerp wat ik heb uitgekozen helemaal niet de resultaten biedt die ik verwachtte. Het wordt dus tijd om terug te gaan naar de tekentafel en de mindmap opnieuw uit te werken. Ik heb veel overbodige knopen uit de mindmap gehaald, en me gefocust op iets wat _erg_ recentelijk is: Het coronavirus en de app die voor het bron- en contactonderzoek wordt ontwikkeld. Door deze wending is de mindmap uiteindelijk er zo uit te komen zien:
-
-![Derde versie mindmap over privacy][image-3]
-
-Mijn nieuwe controverse is dus het coronavirus en de app die de Nederlandse overheid wilt inzetten om dit virus te bestrijden. Mijn onderzoeksvraag hiervoor luidt: Hoeveel vertrouwen en enthousiasme heeft het volk in CoronaMelder, nu het in bepaalde regio's al wordt ingezet en resultaten oplevert?
-
-### De zoektocht V2
+## Probleemstelling 2
 
 | Zoekvraag          |                                                                                                                                        |
 | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,7 +79,7 @@ Mijn nieuwe controverse is dus het coronavirus en de app die de Nederlandse over
 | Google Dataset Search | corona-app or coronamelder onderzoek vertrouwen OR geloven OR animo | [CoronaMelder app meting 6, 19-23 augustus. (2020, 19 augustus). [Dataset]. Rijksoverheid.][16]                      | 10 september 2020 |
 | Google Dataset Search | covid 19 cases netherlands                                          | [YouGov & Imperial College London. (2020, juli). Masks in Europe 2020 [Dataset]. Imperial College London.][17]       | 10 september 2020 |
 
-#### Zoekgeschiedenis
+### Zoekgeschiedenis
 
 Zoektermen op chronologische volgorder:
 
@@ -180,20 +158,6 @@ Zoektermen op chronologische volgorder:
   - readiness corona netherlands
   - readiness corona app netherlands
 
-### Samenvatting en onderbouwing artikel- en datasetkeuzes
-
-De Nederlandse corona-app wordt al sinds het begin bedolven door kritiek van buitenaf. Dit gebeurde al tijdens de appathon in april, waar ict-experts, privacywaakhonden, veiligheidsdiensten en politici openlijk kritiek hadden op deze werkwijze (Bahara, 2020, p. 3). Het korte artikel wat dit onderwerp bespreekt beschrijft erg goed hoe de situatie rondom het coronavirus rond april was. Ondanks dat het artikel veel op de appathon ingaat, wordt er af en toe een tipje van de sluier gegeven over hoe het kabinet de gehele coronacrisis aanpakte op dat moment. Dit zegt AP-voorzitter Aleid Wolfsen in het artikel: 'Heel Nederland wil graag weer naar buiten, stappen zetten richting de normale situatie. Maar we moeten voorkomen dat we nu een oplossing inzetten waarvan onduidelijk is of die wel echt werkt, met het risico dat die vooral nieuwe problemen oplevert.' Een maand eerder had EenVandaag een peiling gedaan over de opinie rondom de aanpak van de overheid tegen het coronavirus. Daarin wordt vermeld dat iets meer dan 50% de aanpak voldoende vond. Dat laat mooi zien hoe snel de tijden zijn veranderd.
-
-We spoelen even door naar augustus. De veranderingen in de maatregelen zijn gestabiliseerd, de meningen over de maatregelen zijn aangescherpt en de polarisatie over de maatregelen groeit. Het Reformatorisch Dagblad had hierover op 20 augustus een voorpagina-artikel geschreven, met referenties naar een onderzoek dat het Algemeen Dagblad heeft uitbesteed. Het AD heeft een artikel geschreven dat de onderzoeksresultaten uitlicht, en het RD gaat op bepaalde aspecten van het onderzoek verder in met anekdotisch bewijs. Beide artikelen laten duidelijk zien hoe Nederland erin zit rond eind augustus. Dit is uiterst interessant voor mijn onderzoeksvraag, omdat de context van de vraag met deze twee artikelen zeer duidelijk worden geschetst.
-
-Het AD is niet de enige die hier onderzoek naar heeft gedaan. Het opiniepanel van Hart van Nederland, Wat vindt Nederland, heeft een peiling gehouden over de betrouwbaarheid van CoronaMelder. “Ook die nieuwe app is niet veilig genoeg, vindt precies de helft van de meer dan 1.600 deelnemers aan het onderzoek van _Wat vindt Nederland”_ (Helft van Nederlanders vertrouwt corona-app van de overheid niet, 2020). Verder in het artikel staat nog vermeld dat 39% van de deelnemers de app zullen downloaden wanneer deze in de desbetreffende regio beschikbaar komt.
-
-Tussen april en augustus zijn heel wat onderzoeken gedaan over verschillende aspecten van de corona-app. De wetenschappelijke publicaties die ik heb verzameld dekken de etiek, een mogelijke verplichting, de publieke opinie en testfases van onze corona-app. Deze aspecten zijn erg belangrijk om een beeld te schetsen wat wordt gedaan om de risico's en controversiele aspecten van de corona-app te waarborgen, in te perken en uit te leggen. Het geeft de overheid de mogelijk om uit te zoeken wat wel mogelijk is, op een manier dat het volk zal smaken. Het onderzoek naar de testfases zullen voornamelijk helpen in het beantwoorden van mijn onderzoeksvraag, omdat het direct uitlegd hoe de testfase is gelopen in de regio Twente.
-
-De overheid doet naast dit allemaal ook regelmatig “Gedragswetenschappelijk onderzoek” rondom de coronacrisis. Denk aan peilingen rondom het idee wat men heeft rondom de aanpak door de overheid, het vertrouwen in de overheid, _hoe ze tegenover de app staan_. Er vanuit gaande dat dit allemaal cijfers zijn waar niet mee is gesjoemeld, is dit een van de meest belangrijke bronnen. Tevens is de data die voor de grafieken op de pagina is gebruikt ook te downloaden als CSV bestanden, dus kan ik hiermee ook zelf aan de slag.
-
-De aanpak van de overheid omtrend het coronavirus en de mening die het volk daarbij heeft gaat goed samen met de manier waarop wij omgaan met het virus. De dataset dat gaat over het maskerdragen in Europa geeft hier in ieder geval een goede indruk over. Het laat zien dat wij als klein landje de crisis op een andere, wellicht meer laxe manier aanpakken. Het bevestigd ons algemene denkbeeld als het gaat over hoe we het virus tegen kunnen gaan. Deze naleving werd al onderzocht in juni door R. van Hoogstraten o.a., en is in een onderzoeksrapport in zeer groot detail uitgelicht.
-
 [1]: https://advance-lexis-com.rps.hva.nl:2443/document/?pdmfid=1516831&crid=0c054595-64ea-4878-afb1-61f0c9dc0bd6&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A5S33-JCV1-JCD9-24HJ-00000-00&pdcontentcomponentid=208267&pdteaserkey=sr4&pditab=allpods&ecomp=tzg2k&earg=sr4&prid=7f5e6409-9379-49b1-a9fd-74de8c42f349
 [2]: https://advance-lexis-com.rps.hva.nl:2443/document/?pdmfid=1516831&crid=020d836f-89e5-41a8-b981-921ddb082c35&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A5F0X-WDV1-DYRY-N1PT-00000-00&pdcontentcomponentid=277856&pdteaserkey=sr2&pditab=allpods&ecomp=tzg2k&earg=sr2&prid=1ee42038-59bf-4b8e-8a5a-1b133a0122ea
 [3]: https://advance-lexis-com.rps.hva.nl:2443/document/?pdmfid=1516831&crid=e0e09090-425c-4c98-bba5-2c2f916c8c81&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A5F2W-TN51-DYRY-N195-00000-00&pdcontentcomponentid=259064&pdteaserkey=sr4&pditab=allpods&ecomp=tzg2k&earg=sr4&prid=5267b370-55d0-4573-94df-8d786d127c10
@@ -211,6 +175,3 @@ De aanpak van de overheid omtrend het coronavirus en de mening die het volk daar
 [15]: https://www.statista.com/statistics/1102064/government-action-to-prevent-coronavirus-concern-in-netherlands/
 [16]: https://www.rivm.nl/gedragsonderzoek/maatregelen-welbevinden/communicatie-en-vertrouwen
 [17]: https://www.statista.com/statistics/1114375/wearing-a-face-mask-outside-in-european-countries/
-[image-1]: .gitbook/assets/privacymindmap_v1.png
-[image-2]: .gitbook/assets/privacymindmap_v2.png
-[image-3]: .gitbook/assets/privacymindmap_v3.png

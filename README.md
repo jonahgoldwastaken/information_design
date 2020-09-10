@@ -8,7 +8,5 @@ description: Procesboek van Jonah Meijers - 500751227
 
 Dit is mijn procesboek voor het Information Design semester. Ik heb voor elk vak een eigen procesboek aangemaakt, waar je in de zijbalk of hieronder terecht kan. Veel leesplezier!
 
-{% page-ref page="dv-1.md" %}
-
-{% page-ref page="dv-2.md" %}
-
+- [Datavisualisatie 1](datavisualisatie-1/inleiding.md)
+- [Datavisualisatie 2](datavisualisatie-2/untitled.md)
