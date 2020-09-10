@@ -82,6 +82,8 @@ Deze dataset laat zien hoe Nederland kijkt naar CoronaMelder. De waarschijnlijkh
 
 **Nuttigheid**: Allemaal erg belangrijke informatie voor mijn hypothese dus. Deze data is tijdens de testen in Oost-Nederland opgenomen, en geeft dus precies de informatie die ik zoek. Nu nog de data van na de teseten, zodat ik deze kan vergelijk met elkaar en correlaties kan maken.
 
+![Overzicht van alle datasets][image-1]
+
 [1]: https://advance-lexis-com.rps.hva.nl:2443/r/documentprovider/x5hvk/attachment/data?attachmentid=V1,215,27667,003NLV1QU20200421VKN0100,1&attachmenttype=PDF&attachmentname=pagina%203&origination=&sequencenumber=&ishotdoc=false&docTitle=&pdmfid=1516831&#page=
 [2]: https://advance-lexis-com.rps.hva.nl:2443/r/documentprovider/x5hvk/attachment/data?attachmentid=V1,215,37763,20200820001DKRMAINVPG,1&attachmenttype=PDF&attachmentname=Link%20naar%20PDF&origination=&sequencenumber=&ishotdoc=false&docTitle=&pdmfid=1516831&#page=
 [3]: https://www.ad.nl/binnenland/onvrede-over-coronabeleid-groeit-nederland-ernstig-verdeeld~a84342bb
@@ -94,3 +96,4 @@ Deze dataset laat zien hoe Nederland kijkt naar CoronaMelder. De waarschijnlijkh
 [10]: https://www.vast-online.nl/art/3776/kan-gebruik-van-corona-apps-worden-verplicht
 [11]: https://www.rivm.nl/gedragsonderzoek/maatregelen-welbevinden/resultaten-1e-ronde-gedragsonderzoek
 [12]: https://www.rivm.nl/gedragsonderzoek/maatregelen-welbevinden/communicatie-en-vertrouwen
+[image-1]: ../.gitbook/assets/datasets_research.png
