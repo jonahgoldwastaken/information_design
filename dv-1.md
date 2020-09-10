@@ -69,7 +69,7 @@ Nu ik dit heb gedocumenteerd ben ik erachter gekomen dat het onderwerp wat ik he
 
 Mijn nieuwe controverse is dus het coronavirus en de app die de Nederlandse overheid wilt inzetten om dit virus te bestrijden. Mijn onderzoeksvraag hiervoor luidt: Hoeveel vertrouwen en enthousiasme heeft het volk in CoronaMelder, nu het in bepaalde regio's al wordt ingezet en resultaten oplevert?
 
-### De Zoektocht V2
+### De zoektocht V2
 
 | Zoekvraag          |                                                                                                                                        |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -94,3 +94,38 @@ Mijn nieuwe controverse is dus het coronavirus en de app die de Nederlandse over
 | Google Scholar    | corona-app resultaten "gebruik"                                                     | [Verbeek, P. P. C. C., Brey, P., van Est, R., van Gemert, L., Heldeweg, M., & Moerel, L. (2020, juli). Ethische analyse van de COVID-19 notificatie-app ter aanvulling op bron en contactonderzoek GGD.](https://repository.overheid.nl/frbr/plooi-contentbeheer/rijksoverheid/2020/plooicb-2020-2908/1/pdf/plooicb-2020-2908.pdf)                                       | 9 september 2020 |
 | Google Scholar    | corona-app resultaten "gebruik"                                                     | [van Hoogstraten, R. R., Veth, I., & Bakker, S. (2020, juni). Veiligheid boven vrijheid? Een interdisciplinair onderzoek naar verklaringen voor de publieke naleving van coronamaatregelen in Nederland.](https://dspace.library.uu.nl/handle/1874/398270)                                                                                                               | 9 september 2020 |
 | Google Scholar    | corona-app privacy                                                                  | [Hof, J. (2020, april). Kan het gebruik van een corona-app worden verplicht?](https://research.hanze.nl/en/publications/kan-het-gebruik-van-een-corona-app-worden-verplicht)                                                                                                                                                                                             | 9 september 2020 |
+
+#### Zoekgeschiedenis V2
+
+Zoektermen op chronologische volgorder:
+
+- Nexis Uni
+  - corona-app OR coronamelder AND vertrouwen OR geloven OR hopen
+    Gefilterd op verschillende publicaties (volkskrant, fd en nrc) met resultaten vanaf 1 januari 2020
+  - corona-app AND vertrouwen
+- Google
+  - corona onderzoek ad
+  - corona onderzoek site:ad.nl
+  - Markteffect
+  - corona onderzoek "vertrouwen" site:ad.nl
+  - onderzoek "corona" site:markteffect.nl
+  - onderzoek corona site:markteffect.nl
+  - onderzoek "corona"
+  - corona-app OR coronamelder onderzoek vertrouwen OR geloven OR animo
+- Google Scholar
+  - corona app privacy vertrouwen
+  - corona app vertrouwen OR animo OR ijver
+  - coronamelder privacy "vertrouwen"
+  - coronamelder privacy
+  - corona-app resultaten "gebruik"
+  - corona app "hoop" OR "vertrouwen"
+  - corona app (hoop OR vertrouwen)
+  - corona app vertrouwen volk
+  - corona app resultaten "vertrouwen publiek"
+  - corona app resultaten "vertrouwen"
+  - corona app uitslag OR gebruiken
+  - corona uitslag OR gebruiken
+  - corona-app uitslag OR gebruiken
+  - corona-app vertrouwen
+  - corona-app trust
+  - corona-app privacy
