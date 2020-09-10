@@ -95,12 +95,11 @@ Mijn nieuwe controverse is dus het coronavirus en de app die de Nederlandse over
 | Google Scholar    | corona-app resultaten "gebruik"                                                     | [van Hoogstraten, R. R., Veth, I., & Bakker, S. \(2020, juni\). Veiligheid boven vrijheid? Een interdisciplinair onderzoek naar verklaringen voor de publieke naleving van coronamaatregelen in Nederland.](https://dspace.library.uu.nl/handle/1874/398270)                                                                                                               | 9 september 2020 |
 | Google Scholar    | corona-app privacy                                                                  | [Hof, J. \(2020, april\). Kan het gebruik van een corona-app worden verplicht?](https://research.hanze.nl/en/publications/kan-het-gebruik-van-een-corona-app-worden-verplicht)                                                                                                                                                                                             | 9 september 2020 |
 
-| Gebruikte bronnen     | Gebruikte zoektermen + operatoren | Gevonden dataset                                                                                                                                                                                                               | Datum             |
-| --------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| Google Dataset Search | coronavirus opinions netherlands  | [EenVandaag. (032020). Netherlands: views on governmental prevention of coronavirus 2020 [Dataset]. EenVandaag.](https://www.statista.com/statistics/1102064/government-action-to-prevent-coronavirus-concern-in-netherlands/) | 10 september 2020 |
-
-| Google Dataset Search | corona app | [BMG & Robert Koch-Institut. (2020, september). Coronavirus (COVID-19) tracing app downloads Germany 2020 [Dataset]. Robert Koch-Institut; ZDF.](https://www.statista.com/statistics/1127547/coronavirus-covid-19-tracing-app-downloads-by-os-germany/) | 10 september 2020 |
-| Google Dataset Search | | [YouGov & Imperial College London. (2020, juli). Masks in Europe 2020 [Dataset]. Imperial College London.](https://www.statista.com/statistics/1114375/wearing-a-face-mask-outside-in-european-countries/) | 10 september 2020 |
+| Gebruikte bronnen     | Gebruikte zoektermen + operatoren | Gevonden dataset                                                                                                                                                                                                                                        | Datum             |
+| --------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Google Dataset Search | coronavirus opinions netherlands  | [EenVandaag. (032020). Netherlands: views on governmental prevention of coronavirus 2020 [Dataset]. EenVandaag.](https://www.statista.com/statistics/1102064/government-action-to-prevent-coronavirus-concern-in-netherlands/)                          | 10 september 2020 |
+| Google Dataset Search | corona app                        | [BMG & Robert Koch-Institut. (2020, september). Coronavirus (COVID-19) tracing app downloads Germany 2020 [Dataset]. Robert Koch-Institut; ZDF.](https://www.statista.com/statistics/1127547/coronavirus-covid-19-tracing-app-downloads-by-os-germany/) | 10 september 2020 |
+| Google Dataset Search | covid 19 cases netherlands        | [YouGov & Imperial College London. (2020, juli). Masks in Europe 2020 [Dataset]. Imperial College London.](https://www.statista.com/statistics/1114375/wearing-a-face-mask-outside-in-european-countries/)                                              | 10 september 2020 |
 
 #### Zoekgeschiedenis V2
 
@@ -138,6 +137,45 @@ Zoektermen op chronologische volgorder:
   - corona-app privacy
 - Google Dataset Search
   - coronavirus app netherlands
+  - coronamelder
   - coronavirus opinions netherlands
   - corona app (opinions OR trust OR privacy) netherlands
   - (corona smartphone app) OR coronamelder netherlands
+  - coronamelder netherlands
+  - corona smartphone app netherlands
+  - corona smartphone app downloads netherlands
+  - corona smartphone app downloads
+  - corona smartphone app downloads dutch
+  - "dutch corona app" downlaods
+  - corona app "dutch" downloads
+  - corona app opinions
+  - "corona opinions" netherlands
+  - corona "opinions" netherlands OR dutch
+  - "corona" opinions netherlands OR dutch
+  - opinions netherlands corona
+  - covid 19 cases netherlands
+  - covid 19 app netherlands
+- Google
+  - coronamelder aantal downloads
+  - coronamelder "aantal downloads"
+  - coronamelder "aantal downloads" filetype:csv
+  - coronamelder "adoptie" filetype:csv
+  - corona app "adoptie" filetype:csv
+  - corona app "adoptie"
+  - "corona-app" filetype:csv
+  - "corona-app" filetype:xlsx
+  - coronamelder testresultaten filetype:csv
+  - coronamelder testresultaten filetype:xlsx
+  - corona-app testresultaten filetype:xlsx
+  - corona-app testresultaten filetype:csv
+- Google Dataset Search
+  - corona-app test results
+  - corona test results
+  - corona-app test results netherlands
+  - corona app "test results" netherlands
+  - corona app "test" netherlands
+  - corona app "test" netherlands OR dutch
+  - corona "test" netherlands OR dutch
+  - corona virus app
+  - readiness corona netherlands
+  - readiness corona app netherlands
