@@ -73,11 +73,11 @@ Dit is het logboek wat ik heb bijgehouden voor de eerste probleemstelling die ik
 | Google Scholar    | corona-app resultaten "gebruik"                                                     | [van Hoogstraten, R. R., Veth, I., & Bakker, S. \(2020, juni\). Veiligheid boven vrijheid? Een interdisciplinair onderzoek naar verklaringen voor de publieke naleving van coronamaatregelen in Nederland.][13]                    | 9 september 2020 |
 | Google Scholar    | corona-app privacy                                                                  | [Hof, J. \(2020, april\). Kan het gebruik van een corona-app worden verplicht?][14]                                                                                                                                                | 9 september 2020 |
 
-| Gebruikte bronnen     | Gebruikte zoektermen + operatoren                                   | Gevonden dataset                                                                                                     | Datum             |
-| --------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Google Dataset Search | coronavirus opinions netherlands                                    | [EenVandaag. (032020). Netherlands: views on governmental prevention of coronavirus 2020 [Dataset]. EenVandaag.][15] | 10 september 2020 |
-| Google Dataset Search | corona-app or coronamelder onderzoek vertrouwen OR geloven OR animo | [CoronaMelder app meting 6, 19-23 augustus. (2020, 19 augustus). [Dataset]. Rijksoverheid.][16]                      | 10 september 2020 |
-| Google Dataset Search | covid 19 cases netherlands                                          | [YouGov & Imperial College London. (2020, juli). Masks in Europe 2020 [Dataset]. Imperial College London.][17]       | 10 september 2020 |
+| Gebruikte bronnen     | Gebruikte zoektermen + operatoren                                   | Gevonden dataset                                                                                                                                        | Datum             |
+| --------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Google Dataset Search | corona-app or coronamelder onderzoek vertrouwen OR geloven OR animo | [Beeld van de aanpak van het coronavirus door de nederlandse overheid meting 1, 17-24 april. \(2020, 17 april\). \[Dataset\]. Rijksoverheid.][15]       | 10 september 2020 |
+| Google Dataset Search | corona-app or coronamelder onderzoek vertrouwen OR geloven OR animo | [Beeld van de aanpak van het coronavirus door de nederlandse overheid meting 6, 19-23 augustus. \(2020, 19 augustus\). \[Dataset\]. Rijksoverheid.][16] | 10 september 2020 |
+| Google Dataset Search | corona-app or coronamelder onderzoek vertrouwen OR geloven OR animo | [CoronaMelder app meting 6, 19-23 augustus. \(2020, 19 augustus\). \[Dataset\]. Rijksoverheid.][16]                                                     | 10 september 2020 |
 
 ### Zoekgeschiedenis
 
@@ -171,7 +171,6 @@ Zoektermen op chronologische volgorder:
 [11]: https://repository.tudelft.nl/islandora/object/uuid:1a0fe1b2-954f-4a2c-8a69-5c87e9f7e6ed?collection=research
 [12]: https://repository.overheid.nl/frbr/plooi-contentbeheer/rijksoverheid/2020/plooicb-2020-2908/1/pdf/plooicb-2020-2908.pdf
 [13]: https://dspace.library.uu.nl/handle/1874/398270
-[14]: https://research.hanze.nl/en/publications/kan-het-gebruik-van-een-corona-app-worden-verplicht
-[15]: https://www.statista.com/statistics/1102064/government-action-to-prevent-coronavirus-concern-in-netherlands/
+[14]: https://www.vast-online.nl/art/3776/kan-gebruik-van-corona-apps-worden-verplicht
+[15]: https://www.rivm.nl/gedragsonderzoek/maatregelen-welbevinden/resultaten-1e-ronde-gedragsonderzoek
 [16]: https://www.rivm.nl/gedragsonderzoek/maatregelen-welbevinden/communicatie-en-vertrouwen
-[17]: https://www.statista.com/statistics/1114375/wearing-a-face-mask-outside-in-european-countries/
