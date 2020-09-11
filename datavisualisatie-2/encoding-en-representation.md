@@ -11,7 +11,7 @@ De collectie die ik uit heb gekozen is mijn kledingkast.
 * Type kledingstuk
 * Print op kledingstuk
 * Patroon in kledingstuk
-* Hoofdkleur
+* Primaire kleur
 * Hoeveelheid kleuren naast hoofdkleur in stuk
 * Lengte mouwen
 * Lengte pijpen
