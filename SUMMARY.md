@@ -12,4 +12,5 @@
 ## Datavisualisatie 2
 
 * [Datavisualisatie 2](datavisualisatie-2/untitled.md)
+* [Encoding en Representation](datavisualisatie-2/encoding-en-representation.md)
 
