@@ -6,24 +6,24 @@ De collectie die ik uit heb gekozen is mijn kledingkast.
 
 #### Eigenschappen collectie
 
-* Hoeveelheid gaten
-* Status schoonheid
 * Type kledingstuk
-* Print op kledingstuk
-* Patroon in kledingstuk
 * Primaire kleur
-* Hoeveelheid kleuren naast hoofdkleur in stuk
-* Lengte mouwen
-* Lengte pijpen
+* Hoeveelheid kleuren
+* Maat
+* Hals-soort
+* Is het schoon?
+* Hoeveelheid gaten
 * Schaamteniveau
+* Vakje
+* Print
+* Patroon
 * Werkkleding
 * Sportkleding
 * Nette kleding
-* Opgehangen
-* Kleding die ik weg wil doen
-* Hoe lang ik het kledingstuk al heb
-* Hoe lang ik het kledingstuk al weg had moeten gooien
-* Maat
+* Opgehangen?
+* Wegdoen?
+* Hoe lang had ik het al weg moeten doen?
+* Hoe lang heb ik het al in mijn bezit?
 
 #### Foto collectie
 
