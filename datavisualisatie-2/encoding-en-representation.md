@@ -31,3 +31,13 @@ De collectie is geordend op basis van schaamteniveau. De schaamteniveau is een o
 
 ![](../.gitbook/assets/img_0067-squashed.jpeg)
 
+Dit is de abstrahering die ik ervoor had gemaakt voor de feedback sessie van 11 september 2020:
+
+![Eerste versie abstrahering ordening op schaamteniveau](../.gitbook/assets/untitled_artwork-2.jpg)
+
+Tijdens de coaching-sessie kreeg ik te horen dat het een letterlijke representatie moest worden. Deze feedback heb ik op deze manier doorgevoerd:
+
+![Tweede versie abstrahering ordening op schaamteniveau](../.gitbook/assets/abstrahering.png)
+
+
+
