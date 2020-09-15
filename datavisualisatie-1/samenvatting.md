@@ -85,6 +85,3 @@ Deze dataset laat zien hoe Nederland kijkt naar CoronaMelder. De waarschijnlijkh
 ![](../.gitbook/assets/datasets_research.png)
 
 {% file src="../.gitbook/assets/excel\_sheet.xlsx" caption="Datasets met grafieken" %}
-
-
-
