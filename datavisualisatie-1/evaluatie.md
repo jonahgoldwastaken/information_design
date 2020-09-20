@@ -14,3 +14,4 @@ De datasets die ik heb verzameld ga ik hier evalueren op verschillende criteria.
 8. Duiden de beslissingen die zijn genomen tijdens het onderzoek op data die zo feitelijk is als het maar kan?
 9. Moeten er andere maatstaffen gebruikt worden om een betere representatie te geven in de data?
 10. Is de data gestuurd op kwantiteit, of op kwaliteit?
+
