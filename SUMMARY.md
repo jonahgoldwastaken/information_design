@@ -4,7 +4,6 @@
 
 ## Datavisualisatie 1
 
-* [Inleiding](datavisualisatie-1/inleiding.md)
 * [Probleemstelling](datavisualisatie-1/probleemstelling.md)
 * [Onderzoek](datavisualisatie-1/onderzoek.md)
 * [Samenvatting en beargumentatie](datavisualisatie-1/samenvatting.md)
