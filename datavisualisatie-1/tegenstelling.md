@@ -4,11 +4,11 @@ De volgende stap is om drie bronnen te vinden die mijn hypothese ontkrachten. Mi
 
 De drie bronnen die ik moet vinden moeten bewijzen dat de mensenmening over CoronaMelder _wel_ is verbeterd ten opzichte van een paar maanden geleden. Het moeten overigens wetenschappelijke artikelen zijn.
 
+### Onderzoek
+
 | Gebruikte bronnen | Gebruikte zoektermen + operatoren | Gevonden referentie | Datum |
 | :--- | :--- | :--- | :--- |
 | ScienceDirect | covid-19 trust government netherlands | Sabat, I., Neuman-Böhme, S., Varghese, N. E., Barros, P. P., Brouwer, W., van Exel, J., Schreyögg, J., & Stargardt, T. \(2020\). United but divided: Policy responses and people’s perceptions in the EU during the COVID-19 outbreak. Health Policy, 124\(9\), 909–918. [https://doi.org/10.1016/j.healthpol.2020.06.009](https://doi.org/10.1016/j.healthpol.2020.06.009) | 20 september 2020 |
-
-### Onderzoek
 
 #### Zoekgeschiedenis
 
