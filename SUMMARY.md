@@ -8,6 +8,7 @@
 * [Probleemstelling](datavisualisatie-1/probleemstelling.md)
 * [Onderzoek](datavisualisatie-1/onderzoek.md)
 * [Samenvatting en beargumentatie](datavisualisatie-1/samenvatting.md)
+* [Tegenstelling](datavisualisatie-1/tegenstelling.md)
 * [Evaluatie](datavisualisatie-1/evaluatie.md)
 
 ## Datavisualisatie 2
