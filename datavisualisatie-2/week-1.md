@@ -2,7 +2,7 @@
 description: Procesboek voor het vak datavisualisatie 2
 ---
 
-# Week 1: Zachte en harde datavisualisaties
+# Week 1
 
 In de eerste week van het project maken we een datawalk. Tijdens deze walk kijken we naar bepaalde objecten in de omgeving en maken we aantekeningen op basis van 5 variabelen die we zelf uit hebben gekozen. Rosa Voogd en ik doen deze datawalk samen, en gaan kijken naar zitbanken in de omgeving. Van onze opvattingen gaan we een zachte en harde datavisualisatie maken. Wat dat precies inhoudt, leren we deze week.
 
@@ -50,3 +50,4 @@ Je noteert gebeurtenissen, sfeerimpressies, interacties en alles wat jou opvalt 
 Als je het verhaal achter een foto of tekening vertelt, krijgt het gelijk een emotionele lading. Dit kan de kijker een grotere impressie geven.
 
 Tijdens de data walk is het belangrijk om gebeurtenissen en sferen vast te leggen, zodat Rosa en ik ook een zachte visualisatie kunnen maken voor onze wandeling, naast alles wat we vast hebben gelegd voor onze harde visualisatie.
+

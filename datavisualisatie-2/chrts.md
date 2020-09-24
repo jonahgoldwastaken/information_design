@@ -41,3 +41,4 @@ Bij temporal wilde ik kijken hoe ik de groei van de huidige inhoud van mijn kled
 Bij de spatial grafieken heb ik geëxperimenteerd met hoe ik op verschillende manieren de locatie, maar ook de hoeveelheid kledingstukken op een locatie kan laten zien. Ik vond sommige uitwerkingen vrij onoverzichtelijk, zoals de Area Cartogram. Ik vind de Proportional Symbol Map uiteindelijk het overzichtelijkst, en heb die dan ook verder uitgewerkt.
 
 > Uitwerking komt nog
+

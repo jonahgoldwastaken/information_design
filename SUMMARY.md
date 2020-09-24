@@ -16,3 +16,4 @@
 * [Encoding en Representation](datavisualisatie-2/encoding-en-representation.md)
 * [CHRTS](datavisualisatie-2/chrts.md)
 * [Editorial Thinking](datavisualisatie-2/editorial-thinking.md)
+

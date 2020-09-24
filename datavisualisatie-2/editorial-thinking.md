@@ -2,27 +2,26 @@
 
 ## Invalshoeken
 
-- Locaties
+* Locaties
 
 ## Locaties
 
-Hoofdvraag: Hoe beïnvloedt het reispatroon van een ID student zijn/haar sociale persoonlijkheid en eetpatronen?
-Deelvragen:
+Hoofdvraag: Hoe beïnvloedt het reispatroon van een ID student zijn/haar sociale persoonlijkheid en eetpatronen? Deelvragen:
 
-- Welke mooie plekken zijn populair onder de studenten?
-- Waar willen ID studenten liever niet naartoe?
-- Hoe ver heeft de gemiddelde ID student gereisd, en waar naartoe?
-- Beïnvloedt dit reispatroon ook het eetgedrag van de gemiddelde student?
-- Zijn de mensen die ver reizen meer of minder extrovert?
+* Welke mooie plekken zijn populair onder de studenten?
+* Waar willen ID studenten liever niet naartoe?
+* Hoe ver heeft de gemiddelde ID student gereisd, en waar naartoe?
+* Beïnvloedt dit reispatroon ook het eetgedrag van de gemiddelde student?
+* Zijn de mensen die ver reizen meer of minder extrovert?
 
 ### Angle: gebruikte variabelen
 
-- Mooiste plek
-- Lelijkste plek
-- Verste plek
-- Favoriete gerecht
-- Lievelingskeuken
-- Extrovert of introvert
+* Mooiste plek
+* Lelijkste plek
+* Verste plek
+* Favoriete gerecht
+* Lievelingskeuken
+* Extrovert of introvert
 
 ### Framing
 
@@ -34,4 +33,9 @@ Mijn focus zal liggen op de 10 verste en 10 dichtst bijzijnde bezochte plekken b
 
 ### Schetsen
 
-![Schetsen uitwerken invalhoek "locaties"](../.gitbook/assets/locaties.png)
+![Schetsen uitwerken invalhoek &quot;locaties&quot;](../.gitbook/assets/locaties.png)
+
+Na dit uitgewerkt te hebben, vind ik dat er net iets te veel informatie in deze inforgraphic zit. Dus wil ik de variabelen van de lievelingskeuken en lievelingsgerecht eruit halen en dit ervan maken:
+
+![](../.gitbook/assets/locaties_v2.png)
+
