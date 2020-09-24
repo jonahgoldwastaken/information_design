@@ -1,10 +1,10 @@
 # Encoding en Representation
 
-### Gekozen collectie
+## Gekozen collectie
 
 De collectie die ik uit heb gekozen is mijn kledingkast.
 
-#### Eigenschappen collectie
+### Eigenschappen collectie
 
 * Type kledingstuk
 * Primaire kleur
@@ -25,7 +25,7 @@ De collectie die ik uit heb gekozen is mijn kledingkast.
 * Hoe lang had ik het al weg moeten doen?
 * Hoe lang heb ik het al in mijn bezit?
 
-#### Foto collectie
+### Foto collectie
 
 De collectie is geordend op basis van schaamteniveau. De schaamteniveau is een ordinale schaal van 1 tot 5, en is beoordeeld op hoe erg ik me zou schamen als ik met het kledingstuk buiten zou rondlopen. 1 is geen schaamte, 5 is doodschaamte.
 
@@ -53,7 +53,6 @@ De feedback die ik op deze ordeningen kreeg ging voornamelijk in op dat ik de at
 
 Dit zijn de ordeningen die ik heb gemaakt op basis van die feedback:
 
-![Ordening 1, versie 2 met variabelen kleding die ik weg wil doen, schaamteniveau, hoe lang het kledingstuk al weg moet en de hoeveelheid kleuren](../.gitbook/assets/ordening_2_v2.jpg)
+![Ordening 1, versie 2 met variabelen kleding die ik weg wil doen, schaamteniveau, hoe lang het kledingstuk al weg moet en de hoeveelheid kleuren](../.gitbook/assets/ordening_1_v2.jpg)
 
-
-
+![Ordening 2, versie 2](../.gitbook/assets/ordening_2_v2.png)
