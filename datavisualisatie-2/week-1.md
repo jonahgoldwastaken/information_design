@@ -2,21 +2,19 @@
 description: Procesboek voor het vak datavisualisatie 2
 ---
 
-# Datavisualisatie 2
-
-## Week 1: Zachte en harde datavisualisaties
+# Week 1: Zachte en harde datavisualisaties
 
 In de eerste week van het project maken we een datawalk. Tijdens deze walk kijken we naar bepaalde objecten in de omgeving en maken we aantekeningen op basis van 5 variabelen die we zelf uit hebben gekozen. Rosa Voogd en ik doen deze datawalk samen, en gaan kijken naar zitbanken in de omgeving. Van onze opvattingen gaan we een zachte en harde datavisualisatie maken. Wat dat precies inhoudt, leren we deze week.
 
-### Data walk
+## Data walk
 
-### Hoorcollege, dinsdag 1 september
+## Hoorcollege, dinsdag 1 september
 
-**Yordi Dam: Harde datavisualisaties**
+### Yordi Dam: Harde datavisualisaties
 
 Met datavisualisatie kan je verhalen vertellen die met tekst moeilijk te vertellen zijn. Yordi doet dit in Localfocus; een datavisualisatietool gemaakt door Yordi en zijn vrienden.
 
-**extragratistips**
+#### extragratistips
 
 1. Stel 1 goede vraag om je data te kunnen visualiseren. Zorg ervoor dat deze erg gericht is. Less = more.
 2. Denk aan je publiek. Complexe of artistieke visuals maken kan uiteraard wel, maar niet voor een algemeen publiek.
@@ -35,11 +33,11 @@ De Y-as afbreken is 99% van de tijd niet nodig, dus niet doen als het niet nodig
 
 Nog wat referenties van Yordi
 
-![www.datavizcatalogue.com screenshot](https://github.com/theonejonahgold/information_design/tree/abbbca38a71a0a53135a36d4cbb7e95cf2dbc5c0/datavisualisatie-2/.gitbook/assets/datavizcatalogue.png)
+![www.datavizcatalogue.com screenshot](../.gitbook/assets/datavizcatalogue.png)
 
 > [https://www.datavizcatalogue.com](https://www.datavizcatalogue.com)
 
-![Financial Times visual vocabulary poster](https://github.com/theonejonahgold/information_design/tree/abbbca38a71a0a53135a36d4cbb7e95cf2dbc5c0/datavisualisatie-2/.gitbook/assets/ft_visual_vocabulary.png)
+![Financial Times visual vocabulary poster](../.gitbook/assets/ft_visual_vocabulary.png)
 
 > Financial Times visual vocabulary
 
@@ -52,4 +50,3 @@ Je noteert gebeurtenissen, sfeerimpressies, interacties en alles wat jou opvalt 
 Als je het verhaal achter een foto of tekening vertelt, krijgt het gelijk een emotionele lading. Dit kan de kijker een grotere impressie geven.
 
 Tijdens de data walk is het belangrijk om gebeurtenissen en sferen vast te leggen, zodat Rosa en ik ook een zachte visualisatie kunnen maken voor onze wandeling, naast alles wat we vast hebben gelegd voor onze harde visualisatie.
-

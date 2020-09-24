@@ -12,6 +12,6 @@
 
 ## Datavisualisatie 2
 
-* [Datavisualisatie 2](datavisualisatie-2/untitled.md)
+* [Week 1](datavisualisatie-2/week-1.md)
 * [Encoding en Representation](datavisualisatie-2/encoding-en-representation.md)
 
