@@ -33,4 +33,5 @@ Ik ga mijn frame voornamelijk op de brede slagen leggen. Alles tot in de puntje 
 Mijn focus zal liggen op de 10 verste en 10 dichtst bijzijnde bezochte plekken bij de variabel "Verste plek". Ik hoop zo een contrast te kunnen laten zien en mijn onderwerpsvragen op een overzichtelijke manier te beantwoorden. De overige cases worden gelowlight, zodat je ze nog wel kan zien en een totaalbeeld kan vormen.
 
 ### Schetsen
+
 ![Schetsen uitwerken invalhoek "locaties"](../.gitbook/assets/locaties.png)
