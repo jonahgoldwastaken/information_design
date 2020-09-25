@@ -6,6 +6,17 @@
 
 ## Locaties
 
+### Mogelijke hoofdvragen
+
+* Zijn de mensen die verder reizen ook buiten Nederland geboren?
+* Reizen ongelukkigere mensen verder naar mooiere plekken?
+* Reizen mensen met een auto minder ver dan mensen zonder auto?
+* Beïnvloedt het reispatroon het eetgedrag van de gemiddelde student?
+* Ligt de lelijkste plek die iemand heeft bezocht dichtbij de geboorteplaats?
+* Is de mooiste plek die iemand heeft bezocht ook de verste plek?
+
+### Uiteindelijke hoofdvraag en deelvragen
+
 Hoofdvraag: Hoe beïnvloedt het reispatroon van een ID student zijn/haar sociale persoonlijkheid en eetpatronen? Deelvragen:
 
 * Welke mooie plekken zijn populair onder de studenten?
