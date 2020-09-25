@@ -25,6 +25,7 @@ Reizen ongelukkigere mensen verder naar mooiere plekken?
 * Hoe ongelukkig is de gemiddelde student op dit moment?
 * Denken de studenten dat hun toekomst slechter of beter zal zijn, vergeleken met hun geluk op dit moment?
 * Wat is de verhouding tussen geluk en de afstand tussen Amsterdam en de mooiste plek?
+* Reizen mensen met een negatief toekomstbeeld ook ver naar mooie plekken?
 
 ### Gebruikte variabelen
 
@@ -42,5 +43,5 @@ De focus zal op de top 5 uitblinkers liggen. Deze 5 uitblinkers zullen gelijk mo
 
 ### Angle
 
-
+![](../.gitbook/assets/locaties%20%281%29.png)
 
