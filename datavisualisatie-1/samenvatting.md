@@ -82,8 +82,7 @@ Deze dataset laat zien hoe Nederland kijkt naar CoronaMelder. De waarschijnlijkh
 
 **Nuttigheid**: Allemaal erg belangrijke informatie voor mijn hypothese dus. Deze data is tijdens de testen in Oost-Nederland opgenomen, en geeft dus precies de informatie die ik zoek. Nu nog de data van na de teseten, zodat ik deze kan vergelijk met elkaar en correlaties kan maken.
 
-![Dataset in grafieken gezet][image-1]
+![](https://github.com/theonejonahgold/information_design/tree/eba38a4f46c7e58b63a54a2c772e6e96963206ee/.gitbook/assets/datasets/_research.png)
 
 {% file src="../.gitbook/assets/excel\_sheet.xlsx" caption="Datasets met grafieken" %}
 
-[image-1]: ../.gitbook/assets/datasets\_research.png
