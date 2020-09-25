@@ -26,3 +26,21 @@ Reizen ongelukkigere mensen verder naar mooiere plekken?
 * Denken de studenten dat hun toekomst slechter of beter zal zijn, vergeleken met hun geluk op dit moment?
 * Wat is de verhouding tussen geluk en de afstand tussen Amsterdam en de mooiste plek?
 
+### Gebruikte variabelen
+
+* Mooiste plekken
+* Tevredenheid over eigen leven
+* Positiviteit over toekomst
+
+### Framing
+
+Ik ga de data afkaderen naar de 30 verste plekken vanaf Amsterdam. Ik wil namelijk daarin zien of de tevredenheid een wezenlijke dip neemt naarmate je steeds verder weg gaat, of dat het helemaal niets uitmaakt. Om de 60+ ingevulde locaties daadwerkelijk uit te plotten wordt onoverzichtelijk, en geeft ook geen duidelijk beeld meer. Met 30 resultaten kom je al een redelijk eind.
+
+### Focus
+
+De focus zal op de top 5 uitblinkers liggen. Deze 5 uitblinkers zullen gelijk moeten laten zien of de hoofdvraag met een ja of nee beantwoord kan worden. Die uitblinkers kies ik op basis van hun tevredenheid, en de positiviteit over hun toekomst. Hoe meer ze van de rest ”uitblinken”, hoe sneller ze gekozen worden.
+
+### Angle
+
+
+
