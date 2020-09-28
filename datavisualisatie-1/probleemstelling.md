@@ -4,11 +4,11 @@
 
 Voor de research case heb ik het onderwerp "Privacy" gekregen. Dit onderwerp heb ik doorgewerkt en deze mindmap hieronder:
 
-![](../.gitbook/assets/privacymindmap_v1.png)
+![Privacy mindmap versie 1](../.gitbook/assets/privacymindmap_v1.png)
 
 Op deze mindmap kreeg ik de feedback om verder in te gaan op de "controverses", waar ik dit onder verstond:
 
-![](../.gitbook/assets/privacymindmap_v2.png)
+![Privacy mindmap versie 2](../.gitbook/assets/privacymindmap_v2.png)
 
 ### Onderzoeksvraag en deelvragen
 
@@ -28,7 +28,7 @@ Na begonnen te zijn met het zoeken naar bronnen met de mindmap hierboven ben ik 
 
 Ik heb veel overbodige knopen uit de mindmap gehaald, en me gefocust op iets wat _erg_ recentelijk is: Het coronavirus en de app die voor het bron- en contactonderzoek wordt ontwikkeld. Door deze wending is de mindmap uiteindelijk er zo uit te komen zien:
 
-![][image-3]
+![Privacy mindmap versie 3][image-3]
 
 Mijn nieuwe controverse is dus het coronavirus en de app die de Nederlandse overheid wilt inzetten om dit virus te bestrijden.
 
@@ -47,4 +47,3 @@ Ik neem deze hypothese aan omdat ik zelf merk dat de CoronaMelder app veel probl
 De controverse zit in de standpunten die we aannemen tegenover CoronaMelder. De app zou een zeer grote bijdrage moeten leveren aan het indammen van de pandemie in Nederland. Het lijkt nu voornamelijk een blok aan ons been, iets wat alleen maar meer problemen en ophoudingen met zich mee lijkt te brengen.
 
 [image-3]: ../.gitbook/assets/privacymindmap_v3.png
-
