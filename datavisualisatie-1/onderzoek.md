@@ -2,8 +2,6 @@
 
 ## Probleemstelling 1
 
->
-
 Dit is het logboek wat ik heb bijgehouden voor de eerste probleemstelling die ik had opgesteld. Ik heb halverwege het onderzoek gestaakt, omdat het erop leek dat ik niet veel informatie zou vinden die me kon helpen tot een conclusie te komen. [Klik hier om door te gaan naar probleemstelling 2](onderzoek.md#probleemstelling-2).
 
 | Zoekvraag |  |
