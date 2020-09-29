@@ -60,3 +60,4 @@ Dit zijn de ordeningen die ik heb gemaakt op basis van die feedback:
 ![Ordening 2, versie 2](../.gitbook/assets/ordening_2_v2.png)
 
 ![Ordening 3](../.gitbook/assets/ordening_3_v1.jpg)
+
