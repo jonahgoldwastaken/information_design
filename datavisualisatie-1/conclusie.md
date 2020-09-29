@@ -7,3 +7,4 @@ Waar dit klaarblijkelijk door komt is de sensationalisme die plaats vindt in de 
 Er wordt wel van alles gedaan om de veiligheid, duidelijk en gebruiksvriendelijkheid van de corona-app te garanderen. De app heeft rigoreuze gebruikerstesten doorstaan, moet voldaan aan een ethische analyse, en wordt toch onderworpen aan veel kritiek van buitenaf. Of er duidelijke berichtgeving is omtrent de eisen waaraan de app moet voldoen, is zelf niet duidelijk, en zou dus eventueel aangescherpt kunnen worden om de publieke opinie op één lijn te krijgen.
 
 Wat in ieder geval wel duidelijk is op dit moment is dat onze CoronaMelder niet erg populair is onder het volk. Mijn hypothese klopt dus, ondanks dat ik met veel moeite heb geprobeerd het tegendeel te bewijzen.
+

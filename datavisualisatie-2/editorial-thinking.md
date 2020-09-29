@@ -2,20 +2,19 @@
 
 ## Invalshoek 1: Locaties
 
-Hoofdvraag: Hoe beïnvloedt het reispatroon van een ID student zijn/haar sociale persoonlijkheid en eetpatronen?
-Deelvragen:
+Hoofdvraag: Hoe beïnvloedt het reispatroon van een ID student zijn/haar sociale persoonlijkheid en eetpatronen? Deelvragen:
 
-- Welke mooie plekken zijn populair onder de studenten?
-- Waar willen ID studenten liever niet naartoe?
-- Hoe ver heeft de gemiddelde ID student gereisd, en waar naartoe?
-- Beïnvloedt dit reispatroon ook het eetgedrag van de gemiddelde student?
-- Zijn de mensen die ver reizen meer of minder extrovert?
+* Welke mooie plekken zijn populair onder de studenten?
+* Waar willen ID studenten liever niet naartoe?
+* Hoe ver heeft de gemiddelde ID student gereisd, en waar naartoe?
+* Beïnvloedt dit reispatroon ook het eetgedrag van de gemiddelde student?
+* Zijn de mensen die ver reizen meer of minder extrovert?
 
 ### Angle: gebruikte variabelen
 
-- Mooiste plek
-- Verste plek
-- Extrovert of introvert
+* Mooiste plek
+* Verste plek
+* Extrovert of introvert
 
 ### Framing
 
@@ -35,12 +34,12 @@ Op basis van de feedback die ik van Brit heb gekregen, ben ik erachter gekomen d
 
 ### Brainstormsessie hoofdvragen
 
-- Zijn de mensen die verder reizen ook buiten Nederland geboren?
-- Reizen ongelukkigere mensen verder naar mooiere plekken?
-- Reizen mensen met een auto minder ver dan mensen zonder auto?
-- Beïnvloedt het reispatroon het eetgedrag van de gemiddelde student?
-- Ligt de lelijkste plek die iemand heeft bezocht dichtbij de geboorteplaats?
-- Is de mooiste plek die iemand heeft bezocht ook de verste plek?
+* Zijn de mensen die verder reizen ook buiten Nederland geboren?
+* Reizen ongelukkigere mensen verder naar mooiere plekken?
+* Reizen mensen met een auto minder ver dan mensen zonder auto?
+* Beïnvloedt het reispatroon het eetgedrag van de gemiddelde student?
+* Ligt de lelijkste plek die iemand heeft bezocht dichtbij de geboorteplaats?
+* Is de mooiste plek die iemand heeft bezocht ook de verste plek?
 
 ### Uiteindelijek hoofdvraag
 
@@ -48,17 +47,17 @@ Reizen ongelukkigere mensen verder naar mooiere plekken?
 
 #### Deelvragen
 
-- Wat is de afstand vanaf Amsterdam naar de mooiste plekken van de studenten?
-- Hoe ongelukkig is de gemiddelde student op dit moment?
-- Denken de studenten dat hun toekomst slechter of beter zal zijn, vergeleken met hun geluk op dit moment?
-- Wat is de verhouding tussen geluk en de afstand tussen Amsterdam en de mooiste plek?
-- Reizen mensen met een negatief toekomstbeeld ook ver naar mooie plekken?
+* Wat is de afstand vanaf Amsterdam naar de mooiste plekken van de studenten?
+* Hoe ongelukkig is de gemiddelde student op dit moment?
+* Denken de studenten dat hun toekomst slechter of beter zal zijn, vergeleken met hun geluk op dit moment?
+* Wat is de verhouding tussen geluk en de afstand tussen Amsterdam en de mooiste plek?
+* Reizen mensen met een negatief toekomstbeeld ook ver naar mooie plekken?
 
 ### Gebruikte variabelen
 
-- Mooiste plekken
-- Tevredenheid over eigen leven
-- Positiviteit over toekomst
+* Mooiste plekken
+* Tevredenheid over eigen leven
+* Positiviteit over toekomst
 
 ### Framing
 
