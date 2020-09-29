@@ -71,3 +71,15 @@ De focus zal op de top 5 uitblinkers liggen. Deze 5 uitblinkers zullen gelijk mo
 ### Angle
 
 ![Schetsen locaties invalshoek](../.gitbook/assets/locaties_schetsen.png)
+
+## Invalshoek 2: mediaconsumptie
+
+### Brainstormsessie hoofdvragen
+
+- Zijn mensen die aggressievere muziek luisteren boosardiger
+
+## Invalshoek 3: sociaal gedrag
+
+## Invalshoek 4: eten en drinken
+
+## Invalshoek 5: gezondheid
