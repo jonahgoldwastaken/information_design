@@ -1,5 +1,5 @@
 ---
-description: Procesboek van Jonah Meijers - 500751227
+description: Procesboek van Jonah Meijers
 ---
 
 # Information Design
