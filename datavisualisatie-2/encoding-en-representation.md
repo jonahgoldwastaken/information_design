@@ -49,6 +49,8 @@ Voor de coaching-sessie vrijdag had ik deze ordeningen gemaakt:
 
 ![Ordening 2 versie 1](../.gitbook/assets/ordening_2_v1.jpg)
 
+![Schetsen ordening 3](../.gitbook/assets/ordening_3_schetsen.png)
+
 De feedback die ik op deze ordeningen kreeg ging voornamelijk in op dat ik de attributen die ik gebruik niet te letterlijk moet nemen, en dat ik de ordeningen dus abstracter moet maken.
 
 Dit zijn de ordeningen die ik heb gemaakt op basis van die feedback:
@@ -57,3 +59,4 @@ Dit zijn de ordeningen die ik heb gemaakt op basis van die feedback:
 
 ![Ordening 2, versie 2](../.gitbook/assets/ordening_2_v2.png)
 
+![Ordening 3](../.gitbook/assets/ordening_3_v1.jpg)
