@@ -259,3 +259,7 @@ Ik ga wel focus leggen op mensen die, ondanks of desondanks een hoge schermtijd,
 ### Schetsen
 
 ![Schetsen gezondheid invalshoek](../.gitbook/assets/gezondheid.png)
+
+## Beste invalshoek
+
+Ik ga uiteindelijk voor **Mediaconsumptie**. Dit omdat ik zelf echt van media hou. Ik kijk tv-series, films, luister heel veel muziek, lees af en toe ook een boek, en had ooit de passie om de filmindustrie in te gaan. Daarnaast vind ik het onderwerp ook het meest interessant van alle onderwerpen die ik heb uitgespit hier, dus de keuze is makkelijk en snel gemaakt.
