@@ -79,14 +79,14 @@ De focus zal op de top 5 uitblinkers liggen. Deze 5 uitblinkers zullen gelijk mo
 
 ### Brainstormsessie hoofdvragen
 
-- Zijn mensen die aggressievere muziek luisteren boosardiger
-- Zijn mensen die een non-fictie boek als favoriet hebben gezonder?
-- Zijn mensen die heftige games spelen meer gestresst?
-- Zijn mensen die harde muziek luisteren minder gestresst?
-- Hoeveel mensen vinden hun telefoon niet hun meest favoriete bezit?
-- Wat voor series kijken de information design studenten het meest?
-- Hoe oud is de content die de studenten kijken en luisteren?
-- Zijn mensen die oudere content kijken en luisteren gelukkiger en minder gestresst?
+* Zijn mensen die aggressievere muziek luisteren boosardiger
+* Zijn mensen die een non-fictie boek als favoriet hebben gezonder?
+* Zijn mensen die heftige games spelen meer gestresst?
+* Zijn mensen die harde muziek luisteren minder gestresst?
+* Hoeveel mensen vinden hun telefoon niet hun meest favoriete bezit?
+* Wat voor series kijken de information design studenten het meest?
+* Hoe oud is de content die de studenten kijken en luisteren?
+* Zijn mensen die oudere content kijken en luisteren gelukkiger en minder gestresst?
 
 ### Uiteindelijke hoofdvraag
 
@@ -94,20 +94,20 @@ Zijn de studenten die oudere content kijken en luisteren gelukkiger en minder ge
 
 ### Deelvragen
 
-- Wat zijn de favoriete films en series, en artiesten van de studenten?
-- Onder welke categorieën vallen die films en series?
-- Onder welke genres vallen de favoriete artiesten?
-- Hoe oud is de content die de studenten kijken en luisteren?
-- Zijn mensen die oudere content kijken negatiever over de toekomst?
+* Wat zijn de favoriete films en series, en artiesten van de studenten?
+* Onder welke categorieën vallen die films en series?
+* Onder welke genres vallen de favoriete artiesten?
+* Hoe oud is de content die de studenten kijken en luisteren?
+* Zijn mensen die oudere content kijken negatiever over de toekomst?
 
 ### Gebruikte variabelen
 
-- Favoriete film
-- Favoriete serie
-- Favoriete artiest
-- Levenstevredenheid
-- Stressniveau
-- Cijfer toekomstbeeld
+* Favoriete film
+* Favoriete serie
+* Favoriete artiest
+* Levenstevredenheid
+* Stressniveau
+* Cijfer toekomstbeeld
 
 ### Angle
 
@@ -129,11 +129,11 @@ De focus zal ik leggen op de 3 tot 5 uitblinkers die mijn vraag het beste beantw
 
 ### Brainstormsessie hoofdvragen
 
-- Zijn mensen die meer tijd besteden op social media meer extrovert?
-- Zijn mensen die meer tijd op social media besteden ongelukkiger?
-- Hebben mensen die meer social media gebruiken ook meer social media accounts?
-- Zijn mensen meer gestresst als ze meer social media gebruiken?
-- Geef je meer geld uit als je meer op social media zit?
+* Zijn mensen die meer tijd besteden op social media meer extrovert?
+* Zijn mensen die meer tijd op social media besteden ongelukkiger?
+* Hebben mensen die meer social media gebruiken ook meer social media accounts?
+* Zijn mensen meer gestresst als ze meer social media gebruiken?
+* Geef je meer geld uit als je meer op social media zit?
 
 ### Uiteindelijke hoofdvraag
 
@@ -141,20 +141,20 @@ Zijn mensen die meer tijd op social medai besteden ongelukkiger?
 
 ### Deelvragen
 
-- Hoeveel tijd besteed men op social media?
-- Hoeveel social media accounts hebben mensen?
-- Hoe gelukkig zijn mensen?
-- Wat is de verhouding tussen hoeveelheid tijd besteed op social media en geluk?
-- Besteden mensen met meer social media accounts meer tijd op social media?
-- Hebben mensen die gemiddeld meer tijd besteden op social media een negatiever beeld over de toekomst?
-- Bij welk social media platform zijn de mensen het meest ontevreden over hun leven en negatief over hun toekomst?
+* Hoeveel tijd besteed men op social media?
+* Hoeveel social media accounts hebben mensen?
+* Hoe gelukkig zijn mensen?
+* Wat is de verhouding tussen hoeveelheid tijd besteed op social media en geluk?
+* Besteden mensen met meer social media accounts meer tijd op social media?
+* Hebben mensen die gemiddeld meer tijd besteden op social media een negatiever beeld over de toekomst?
+* Bij welk social media platform zijn de mensen het meest ontevreden over hun leven en negatief over hun toekomst?
 
 ### Gebruikte variabelen
 
-- Levenstevredenheid
-- Gemiddelde tijd besteed op social media
-- Gebruikte social media
-- Toekomstbeeld
+* Levenstevredenheid
+* Gemiddelde tijd besteed op social media
+* Gebruikte social media
+* Toekomstbeeld
 
 ### Angle
 
