@@ -59,6 +59,10 @@ Reizen ongelukkigere mensen verder naar mooiere plekken?
 * Tevredenheid over eigen leven
 * Positiviteit over toekomst
 
+### Angle
+
+Ik wil voornamelijk de verbanden tussen tevredenheid en toekomstbeeld samenbrengen door ze tegen elkaar op te zetten. De plekken die het verst zijn voor de mensen die relatief ontevreden zijn laat ik zien op een kaart.
+
 ### Framing
 
 Ik ga de data afkaderen naar de 30 verste plekken vanaf Amsterdam. Ik wil namelijk daarin zien of de tevredenheid een wezenlijke dip neemt naarmate je steeds verder weg gaat, of dat het helemaal niets uitmaakt. Om de 60+ ingevulde locaties daadwerkelijk uit te plotten wordt onoverzichtelijk, en geeft ook geen duidelijk beeld meer. Met 30 resultaten kom je al een redelijk eind.
@@ -66,10 +70,6 @@ Ik ga de data afkaderen naar de 30 verste plekken vanaf Amsterdam. Ik wil nameli
 ### Focus
 
 De focus zal op de top 5 uitblinkers liggen. Deze 5 uitblinkers zullen gelijk moeten laten zien of de hoofdvraag met een ja of nee beantwoord kan worden. Die uitblinkers kies ik op basis van hun tevredenheid, en de positiviteit over hun toekomst. Hoe meer ze van de rest ”uitblinken”, hoe sneller ze gekozen worden.
-
-### Angle
-
-Ik wil voornamelijk de verbanden tussen tevredenheid en toekomstbeeld samenbrengen door ze tegen elkaar op te zetten. De plekken die het verst zijn voor de mensen die relatief ontevreden zijn laat ik zien op een kaart.
 
 ### Schetsen
 
@@ -109,6 +109,10 @@ Zijn de studenten die oudere content kijken en luisteren gelukkiger en minder ge
 - Stressniveau
 - Cijfer toekomstbeeld
 
+### Angle
+
+Ik wil de films, series en muzieknummers verdelen over genres, en daarbij ook de gemiddelde leeftijd van die content erin verwerken. Daarnaast wil ik die leeftijd ook samengooien met de levenstevredenheid. Als laatste wil ik het stressniveau en het cijfer voor de toekomstbeeld los van de rest samen zetten, als afsluiter en conclusie.
+
 ### Framing
 
 Ik zal iedereen meenemen in de visualisatie die dit onderzoek heeft ingevuld, inclusief de mensen zonder data. Een totaalplaatje is naar mijn mening hier de beste optie, om een genuanceerd antwoord op mijn hoofdvraag te kunnen krijgen.
@@ -117,20 +121,56 @@ Ik zal iedereen meenemen in de visualisatie die dit onderzoek heeft ingevuld, in
 
 De focus zal ik leggen op de 3 tot 5 uitblinkers die mijn vraag het beste beantwoorden met een ja of nee. Ik hoop hiermee gelijk met de deur in huis te kunnen vallen.
 
-### Angle
-
-Ik wil de films, series en muzieknummers verdelen over genres, en daarbij ook de gemiddelde leeftijd van die content erin verwerken. Daarnaast wil ik die leeftijd ook samengooien met de levenstevredenheid. Als laatste wil ik het stressniveau en het cijfer voor de toekomstbeeld los van de rest samen zetten, als afsluiter en conclusie.
-
 ### Schetsen
 
 ![Schetsen mediaconsumptie invalshoek](../.gitbook/assets/mediaconsumptie.png)
 
-## Invalshoek 3: sociaal gedrag
+## Invalshoek 3: social media
 
 ### Brainstormsessie hoofdvragen
 
 - Zijn mensen die meer tijd besteden op social media meer extrovert?
-- 
+- Zijn mensen die meer tijd op social media besteden ongelukkiger?
+- Hebben mensen die meer social media gebruiken ook meer social media accounts?
+- Zijn mensen meer gestresst als ze meer social media gebruiken?
+- Geef je meer geld uit als je meer op social media zit?
+
+### Uiteindelijke hoofdvraag
+
+Zijn mensen die meer tijd op social medai besteden ongelukkiger?
+
+### Deelvragen
+
+- Hoeveel tijd besteed men op social media?
+- Hoeveel social media accounts hebben mensen?
+- Hoe gelukkig zijn mensen?
+- Wat is de verhouding tussen hoeveelheid tijd besteed op social media en geluk?
+- Besteden mensen met meer social media accounts meer tijd op social media?
+- Hebben mensen die gemiddeld meer tijd besteden op social media een negatiever beeld over de toekomst?
+- Bij welk social media platform zijn de mensen het meest ontevreden over hun leven en negatief over hun toekomst?
+
+### Gebruikte variabelen
+
+- Levenstevredenheid
+- Gemiddelde tijd besteed op social media
+- Gebruikte social media
+- Toekomstbeeld
+
+### Angle
+
+Ik wil voornamelijk kijken wat de verhoudingen zijn tussen de levenstevredenheid en de gemiddelde tijd besteed op social media. Deze twee wil ik gaan samenhangen, en daarbij als context de andere twee variabelen genoemd hierboven bijvoegen. Gebruikte social media en gemiddelde tijd besteed op social media zullen ook in visualisaties samenkomen en toekomstbeeld samen met levenstevredenheid ook. Verdere kruisingen komen ook voor, maar zijn voornamelijk bijzaak en nemen niet de spotlight in.
+
+### Framing
+
+Ik zal voornamelijk kijken naar mensen die uitbundig veel social media gebruiken. Dat zijn namelijk de mensen bij wie ik mijn antwoorden moet halen voor mijn hoofd- en deelvragen.
+
+### Focus
+
+De focus zal ik leggen op de extreme gevallen. Dat maak ik op uit de variabelen "levenstevredenheid", "gemiddelde tijd besteed op social media" en "toekomstbeeld". Extreme uitkomsten als meerdere variabelen samengevoegd worden in een visualisatie licht ik ook uit.
+
+### Schetsen
+
+![Schetsen social media invalshoek](../.gitbook/assets/social_media.png)
 
 ## Invalshoek 4: eten en drinken
 
