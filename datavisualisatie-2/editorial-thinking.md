@@ -69,6 +69,10 @@ De focus zal op de top 5 uitblinkers liggen. Deze 5 uitblinkers zullen gelijk mo
 
 ### Angle
 
+Ik wil voornamelijk de verbanden tussen tevredenheid en toekomstbeeld samenbrengen door ze tegen elkaar op te zetten. De plekken die het verst zijn voor de mensen die relatief ontevreden zijn laat ik zien op een kaart.
+
+### Schetsen
+
 ![Schetsen locaties invalshoek](../.gitbook/assets/locaties_schetsen.png)
 
 ## Invalshoek 2: mediaconsumptie
@@ -122,6 +126,11 @@ Ik wil de films, series en muzieknummers verdelen over genres, en daarbij ook de
 ![Schetsen mediaconsumptie invalshoek](../.gitbook/assets/mediaconsumptie.png)
 
 ## Invalshoek 3: sociaal gedrag
+
+### Brainstormsessie hoofdvragen
+
+- Zijn mensen die meer tijd besteden op social media meer extrovert?
+- 
 
 ## Invalshoek 4: eten en drinken
 
