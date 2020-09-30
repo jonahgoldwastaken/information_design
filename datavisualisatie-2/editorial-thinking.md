@@ -219,3 +219,43 @@ Mijn focus zal voornamelijk liggen op de mensen die erg gezond zijn, en die dan 
 ![Schetsen eten & drinken invalshoek](../.gitbook/assets/eten_en_drinken.png)
 
 ## Invalshoek 5: gezondheid
+
+### Brainstormsessie hoofdvragen
+
+* Hoe gezond is de gemiddelde student?
+* Draagt schermtijd bij aan een lagere gezondheid?
+* Zijn mensen die minder buiten zijn ongezonder?
+* Zijn ongezonde mensen meer gestresst?
+
+### Uiteindelijke hoofdvraag
+
+Draagt schermtijd bij aan een lagere gezondheid?
+
+### Deelvragen
+
+* Hoeveel schermtijd heeft de gemiddelde student?
+* Wat is de gezondheid van studenten?
+* Wat is de samenhang tussen schermtijd en de gezondheid van studenten?
+* Is er een samenhang tussen veel schermtijd en weinig tijd in de buitenlucht?
+
+### Gebruikte variabelen
+
+* Schermtijd
+* Gezondheid
+* Tijd buiten
+
+### Angle
+
+Ik wil dit bekijken vanuit de angle dat veel tijd achter een scherm slecht voor je is, en wil kijken of minder tijd buiten bijdraagt hieraan.
+
+### Framing
+
+Ik betrek iedereen die aan de enquête mee heeft gedaan bij dit onderwerp, omdat je niet met minder data het complete plaatje kan krijgen.
+
+### Focus
+
+Ik ga wel focus leggen op mensen die, ondanks of desondanks een hoge schermtijd, ongezond zijn. Dit zullen maximaal 4 mensen zijn, om het overzicht te bewaren.
+
+### Schetsen
+
+![Schetsen gezondheid invalshoek](../.gitbook/assets/gezondheid.png)
