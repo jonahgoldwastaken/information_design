@@ -174,4 +174,48 @@ De focus zal ik leggen op de extreme gevallen. Dat maak ik op uit de variabelen 
 
 ## Invalshoek 4: eten en drinken
 
+### Brainstormsessie hoofdvragen
+
+* Welke lievelingskeukens dragen bij aan een algemeen ongezond gevoel?
+* Wat is de populairste lievelingskeuken onder ID studenten?
+* Hoe goed drinken studenten water tegenwoordig?
+* Hoe gezond zijn mensen die veel koffie drinken?
+* Wat is het eetpatroon van de gemiddelde ID student?
+* Wat is het gemiddelde alcoholgebruik bij ID studenten?
+
+### Uiteindelijke hoofdvraag
+
+Hoe goed drinken studenten water tegenwoordig?
+
+### Deelvragen
+
+* Hoeveel glazen water drinken studenten gemiddeld?
+* Hoe gezond zijn mensen die meer water drinken?
+* Drinken mensen die meer water drinken ook veel alcohol?
+* Drinken mensen naast veel water ook veel koffie of thee?
+
+### Gebruikte variabelen
+
+* Koffie of thee?
+* Hoeveel glazen water
+* Hoeveel glazen alcohol
+* Hoeveel glazen koffie/thee
+* Gezondheidsgevoel
+
+### Angle
+
+Ik wil vooral kijken naar hoe water drinken zich verhoudt tot de gezondheid van studenten. Dat wordt de main focus. Daarnaast zal ik wat trivia toevoegen, zoals de consumptie van koffie en/of thee en alcoholische versnaperingen.
+
+### Framing
+
+Ik neem alleen mensen die meer dan twee glazen water hebben gedronken. Ik wil de boodschap overbrengen of meer water beter is voor de gezondheid, en dat kan ik niet doen met mensen die nauwelijks tot geen water drinken in mijn data.
+
+### Focus
+
+Mijn focus zal voornamelijk liggen op de mensen die erg gezond zijn, en die dan weer projecteren op de context. Ik wil zo laten zien dat mensen wel degelijk gezond kunnen zijn als meer water wordt geconsumeerd, maar dat hoeft niet voor iedereen zo te zijn, al dat uit de data blijkt.
+
+### Schetsen
+
+![Schetsen eten & drinken invalshoek](../.gitbook/assets/eten_en_drinken.png)
+
 ## Invalshoek 5: gezondheid
