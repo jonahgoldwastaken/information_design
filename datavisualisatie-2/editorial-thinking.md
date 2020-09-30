@@ -76,6 +76,50 @@ De focus zal op de top 5 uitblinkers liggen. Deze 5 uitblinkers zullen gelijk mo
 ### Brainstormsessie hoofdvragen
 
 - Zijn mensen die aggressievere muziek luisteren boosardiger
+- Zijn mensen die een non-fictie boek als favoriet hebben gezonder?
+- Zijn mensen die heftige games spelen meer gestresst?
+- Zijn mensen die harde muziek luisteren minder gestresst?
+- Hoeveel mensen vinden hun telefoon niet hun meest favoriete bezit?
+- Wat voor series kijken de information design studenten het meest?
+- Hoe oud is de content die de studenten kijken en luisteren?
+- Zijn mensen die oudere content kijken en luisteren gelukkiger en minder gestresst?
+
+### Uiteindelijke hoofdvraag
+
+Zijn de studenten die oudere content kijken en luisteren gelukkiger en minder gestresst?
+
+### Deelvragen
+
+- Wat zijn de favoriete films en series, en artiesten van de studenten?
+- Onder welke categorieën vallen die films en series?
+- Onder welke genres vallen de favoriete artiesten?
+- Hoe oud is de content die de studenten kijken en luisteren?
+- Zijn mensen die oudere content kijken negatiever over de toekomst?
+
+### Gebruikte variabelen
+
+- Favoriete film
+- Favoriete serie
+- Favoriete artiest
+- Levenstevredenheid
+- Stressniveau
+- Cijfer toekomstbeeld
+
+### Framing
+
+Ik zal iedereen meenemen in de visualisatie die dit onderzoek heeft ingevuld, inclusief de mensen zonder data. Een totaalplaatje is naar mijn mening hier de beste optie, om een genuanceerd antwoord op mijn hoofdvraag te kunnen krijgen.
+
+### Focus
+
+De focus zal ik leggen op de 3 tot 5 uitblinkers die mijn vraag het beste beantwoorden met een ja of nee. Ik hoop hiermee gelijk met de deur in huis te kunnen vallen.
+
+### Angle
+
+Ik wil de films, series en muzieknummers verdelen over genres, en daarbij ook de gemiddelde leeftijd van die content erin verwerken. Daarnaast wil ik die leeftijd ook samengooien met de levenstevredenheid. Als laatste wil ik het stressniveau en het cijfer voor de toekomstbeeld los van de rest samen zetten, als afsluiter en conclusie.
+
+### Schetsen
+
+![Schetsen mediaconsumptie invalshoek](../.gitbook/assets/mediaconsumptie.png)
 
 ## Invalshoek 3: sociaal gedrag
 
