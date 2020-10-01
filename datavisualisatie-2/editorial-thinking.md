@@ -41,7 +41,7 @@ Op basis van de feedback die ik van Brit heb gekregen, ben ik erachter gekomen d
 * Ligt de lelijkste plek die iemand heeft bezocht dichtbij de geboorteplaats?
 * Is de mooiste plek die iemand heeft bezocht ook de verste plek?
 
-### Uiteindelijek hoofdvraag
+### Uiteindelijke hoofdvraag
 
 Reizen ongelukkigere mensen verder naar mooiere plekken?
 
