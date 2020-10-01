@@ -137,7 +137,7 @@ De focus zal ik leggen op de 3 tot 5 uitblinkers die mijn vraag het beste beantw
 
 ### Uiteindelijke hoofdvraag
 
-Zijn mensen die meer tijd op social medai besteden ongelukkiger?
+Zijn mensen die meer tijd op social media besteden ongelukkiger?
 
 ### Deelvragen
 
