@@ -24,3 +24,7 @@ Welke content kijken en luisteren gelukkigere studenten?
 ## Eerste schetsen
 
 Voor de eerste schetsen wilde ik kijken naar wat mogelijk is om te doen met de data, en wat ik eruit kan halen of toe kan voegen.
+
+![Eerste schetsen grafieken](../.gitbook/assets/eerste_schetsen.png)
+
+Het belangrijkste wat uit deze schetsen voortkomen is dat er veel variatie mogelijk is in hoe de data kan worden gepresenteerd. Het biedt ook veel opties voor gelaagde interacties, om te filteren tussen de verschillende datasets binnen 1 grafiek. Daarnaast is ook duidelijk te zien dat andere data van buiten deze dataset nog extra context kan bieden voor de data uit de set, dus ik vertrouw erop dat ik die aanvullende data van online kan vinden.
