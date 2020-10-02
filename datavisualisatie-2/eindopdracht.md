@@ -33,4 +33,8 @@ Het belangrijkste wat uit deze schetsen voortkomen is dat er veel variatie mogel
 
 Op vrijdag 2 oktober heb ik een feedbacksessie gehad en de schetsen hierboven laten zien. De feedback is eigenlijk in een paar punten simpel samen te vatten:
 
-* 
+* Bij sommige grafieken, zoals de beeswarm plot, is het misschien wel vet om nog een as toe te voegen en datapunten als geboortedatum toe te voegen.
+* Progressive disclosure is zeker een goede optie. Beginnen met basale visualisatie die met elke stap een stuk ingewikkelder worden is zeker geen verkeerd idee.
+* Als er nog tijd over is kan data uit andere datasets zeker leuk zijn om toe te voegen aan de infographic.
+
+Deze feedback verwerk ik in wat meer gerichte schetsen, met interacties erin verwerkt, die ik daarna over ga zetten in een design. Op dat design wil dan dinsdag feedback krijgen, terwijl ik in de tussentijd de basis alvast programmeer.
