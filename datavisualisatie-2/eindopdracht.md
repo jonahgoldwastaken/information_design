@@ -70,3 +70,14 @@ Ik ben erg tevreden met de wireframe. De content is nog vrij vaag, maar dat komt
 In de tussentijd heb ik alvast wat programmeer- en onderzoekwerk gedaan naar hoe ik dit allemaal interactief kan krijgen, en dat heeft erg geholpen met wat de mogelijkheden zijn met de grafieken. Hierdoor heb ik het zoom-effect op de treemap bijvoorbeeld verworpen, omdat je dat zelf van scratch meot maken en ik daar geen tijd voor heb. Ik ga het zo bouwen dat ik met frameworks die anderen hebben gemaakt alles kan bouwen zoals ik het wil, terwijl de basis al is gelegd door de makers van die frameworks.
 
 ## Design
+
+Het stijl voor het uiteindelijke ontwerp is warm met lettertypes die de infographic doen lijken op werken van NYT, TSCP, FT en andere reputabele bladen.
+
+![Het kleurenpalet](../.gitbook/assets/kleurenpalet.png)
+
+> [Link naar kleurenpalet](https://coolors.co/585123-eec170-f2a65a-f58549-772f1a)
+
+Lettertypes:
+
+* [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville?category=Serif&preview.text=Welke%20content%20kijken%20en%20luisteren%20gelukkigere%20studenten%3F&preview.text_type=custom)
+* [Raleway](https://fonts.google.com/specimen/Raleway?category=Sans+Serif&preview.text=Welke%20content%20kijken%20en%20luisteren%20gelukkigere%20studenten%3F&preview.text_type=custom)
