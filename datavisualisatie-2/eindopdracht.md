@@ -38,3 +38,35 @@ Op vrijdag 2 oktober heb ik een feedbacksessie gehad en de schetsen hierboven la
 * Als er nog tijd over is kan data uit andere datasets zeker leuk zijn om toe te voegen aan de infographic.
 
 Deze feedback verwerk ik in wat meer gerichte schetsen, met interacties erin verwerkt, die ik daarna over ga zetten in een design. Op dat design wil dan dinsdag feedback krijgen, terwijl ik in de tussentijd de basis alvast programmeer.
+
+## De gerichte schetsen met interacties en wireframe
+
+Ik ga als eerste aan de slag met de progressive disclosure feedback. Ik heb het idee om een vette uitvouw bovenaan de pagina te maken, die gedetaileerder wordt naarmate je verder naar beneden scrollt. De uitwerking hiervan zie je hieronder.
+
+![Progessive disclosure uitgewerkt](../.gitbook/assets/progressive_disclosure.png)
+
+De sankey diagram is als volgende aan de beurt. Ik ben ervan overtuigd dat ik deze wil gebruiken zoals ik hem eerder al heb geschetst, dus ga ik alleen de interactie uitwerken.
+
+![De sankey diagram met interactie](../.gitbook/assets/sankey.png)
+
+De volgende twee schetsen die ik wil maken zijn voor de beeswarm en de treemap. Daar is nog wat experimentatie mogelijk, wat je hieronder kan zien.
+
+![Beeswarm verder uitgewerkt](../.gitbook/assets/beeswarm.png)
+
+![Treemap verder uitgewerkt](../.gitbook/assets/treemap.png)
+
+Ik merk dat ik nog heel wat ideetjes heb voor deze twee, maar wil even kijken hoe het eruit ziet als ik alles bij elkaar zet in een wireframe voor web. Voordat ik dat maak, wil ik nog even kijken hoe ik extra data van streaming diensten er leuk uit zou kunnen laten zien.
+
+![Streaming cijfers in verschillende grafieken en diagrammen uitgewerkt](../.gitbook/assets/streaming_cijfers.png)
+
+Ik heb nu wel een idee hoe ik dit wil aanpakken, dus ga ik een wireframe maken en kijken hoe ik dit op desktop eruit kan laten zien.
+
+![Wireframe voor desktop](../.gitbook/assets/wireframe.png)
+
+Ik ben erg tevreden met de wireframe. De content is nog vrij vaag, maar dat komt omdat ik nog geen conclusies kan trekken op wat de tekst tussen de diagrammen, en wat de diagrammen zelf zullen vertellen. De volgorde van de content ziet er voor mij zo wel logisch uit, dus ga ik het design verder uitwerken in een design programma.
+
+## Programmeerwerk tussendoor
+
+In de tussentijd heb ik alvast wat programmeer- en onderzoekwerk gedaan naar hoe ik dit allemaal interactief kan krijgen, en dat heeft erg geholpen met wat de mogelijkheden zijn met de grafieken. Hierdoor heb ik het zoom-effect op de treemap bijvoorbeeld verworpen, omdat je dat zelf van scratch meot maken en ik daar geen tijd voor heb. Ik ga het zo bouwen dat ik met frameworks die anderen hebben gemaakt alles kan bouwen zoals ik het wil, terwijl de basis al is gelegd door de makers van die frameworks.
+
+## Design
