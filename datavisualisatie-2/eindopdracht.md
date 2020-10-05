@@ -63,6 +63,8 @@ Ik heb nu wel een idee hoe ik dit wil aanpakken, dus ga ik een wireframe maken e
 
 ![Wireframe voor desktop](../.gitbook/assets/wireframe.png)
 
+![Timelapse ontwikkeling wireframe](../.gitbook/assets/wireframe_timelapse.mp4)
+
 Ik ben erg tevreden met de wireframe. De content is nog vrij vaag, maar dat komt omdat ik nog geen conclusies kan trekken op wat de tekst tussen de diagrammen, en wat de diagrammen zelf zullen vertellen. De volgorde van de content ziet er voor mij zo wel logisch uit, dus ga ik het design verder uitwerken in een design programma.
 
 ## Programmeerwerk tussendoor
@@ -81,3 +83,12 @@ Lettertypes:
 
 * [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville?category=Serif&preview.text=Welke%20content%20kijken%20en%20luisteren%20gelukkigere%20studenten%3F&preview.text_type=custom)
 * [Raleway](https://fonts.google.com/specimen/Raleway?category=Sans+Serif&preview.text=Welke%20content%20kijken%20en%20luisteren%20gelukkigere%20studenten%3F&preview.text_type=custom)
+
+![Uiteindelijke ontwerp](../.gitbook/assets/design.png)
+
+### Veranderingen in uiteindelijke design
+
+Ik heb wat kleine dingen veranderd in het ontwerp ten opzichte van de wireframe:
+
+* Play button weggehaald, mensen kunnen best zelf naar beneden scrollen.
+* Externe data weggehaald. Ga ik niet redden gezien de deadline al erg snel is.
