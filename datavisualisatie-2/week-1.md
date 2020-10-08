@@ -50,4 +50,3 @@ Je noteert gebeurtenissen, sfeerimpressies, interacties en alles wat jou opvalt 
 Als je het verhaal achter een foto of tekening vertelt, krijgt het gelijk een emotionele lading. Dit kan de kijker een grotere impressie geven.
 
 Tijdens de data walk is het belangrijk om gebeurtenissen en sferen vast te leggen, zodat Rosa en ik ook een zachte visualisatie kunnen maken voor onze wandeling, naast alles wat we vast hebben gelegd voor onze harde visualisatie.
-

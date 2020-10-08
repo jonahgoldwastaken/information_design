@@ -77,7 +77,7 @@ Het stijl voor het uiteindelijke ontwerp is warm met lettertypes die de infograp
 
 ![Het kleurenpalet](../.gitbook/assets/kleurenpalet.png)
 
-> [Link naar kleurenpalet](https://coolors.co/585123-eec170-f2a65a-f58549-772f1a)
+[Link naar kleurenpalet](https://coolors.co/585123-eec170-f2a65a-f58549-772f1a)
 
 Lettertypes:
 
@@ -92,3 +92,27 @@ Ik heb wat kleine dingen veranderd in het ontwerp ten opzichte van de wireframe:
 
 * Play button weggehaald, mensen kunnen best zelf naar beneden scrollen.
 * Externe data weggehaald. Ga ik niet redden gezien de deadline al erg snel is.
+
+## Peer feedback dinsdag 6 oktober
+
+* Het toevoegen van kopjes voor de verschillende blokken content met grafieken, i.p.v. de tekst losjes in elkaar over te laten vloeien?
+* Kijken naar een aparte kleur voor alles wat te maken heeft met muziek, film of tv.
+* Vragen stellen, en daarna beantwoorden met data?
+
+## Prototype ontwikkelen
+
+Het prototype ontwikkelen kostte veel moeite, met veel kleine aanpassingen die ik hier niet allemaal kan opnoemen. Hier is een lijst met alle grote en duidelijk aanwezige veranderingen *en* toevoegingen tijdens het proces.
+
+* Volgorde van grafieken veranderd, sinds de content zo beter doorvloeit.
+* Animaties voor de eerste staafdiagrammen.
+* Het toevoegen van een paragraaf op zwarte achtergrond voor het tonen van de eerste grafieken om het artikel in te luiden.
+* Sankey diagram verandert niet van grote naarmate je verder naar beneden scrollt. De diagram is daar te chaotisch voor, het is al indrukwekkend genoeg als het is en hoeft geen veranderingen of toevoegingen te gebruiken.
+* Ik heb aparte kleuren doorgevoerd voor alles wat te maken heeft met muziek, film en tv.
+* Heel wat hoogtes en breedtes zijn verandert om het werkbaar te maken voor desktop.
+* De staafdiagram heeft een paar cosmetische aanpassingen die gelukkig nauwelijks zichtbaar zijn totdat je dit leest.
+
+[Ga hier naar het prototype](https://dataviz-2.jonahmeijers.nl)
+
+![Video die door prototype doorloopt](../.gitbook/assets/video_prototype.mp4)
+
+![Screenshot van prototype zonder gradients](../.gitbook/assets/screenshot_prototype.png)
