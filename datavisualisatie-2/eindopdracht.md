@@ -65,7 +65,7 @@ Ik heb nu wel een idee hoe ik dit wil aanpakken, dus ga ik een wireframe maken e
 
 ![Timelapse ontwikkeling wireframe](../.gitbook/assets/wireframe_timelapse.mp4)
 
-Ik ben erg tevreden met de wireframe. De content is nog vrij vaag, maar dat komt omdat ik nog geen conclusies kan trekken op wat de tekst tussen de diagrammen, en wat de diagrammen zelf zullen vertellen. De volgorde van de content ziet er voor mij zo wel logisch uit, dus ga ik het design verder uitwerken in een design programma.
+Ik ben erg tevreden met de wireframe. De content is nog vrij vaag, maar dat komt omdat ik nog geen conclusies kan trekken op wat de tekst tussen de diagrammen, en wat de diagrammen zelf zullen vertellen. De volgorde van de content ziet er voor mij zo wel logisch uit, dus ga ik het design verder uitwerken in een design programma. Ik ga me alleen focussen op desktop, omdat alles responsive maken zo kortaf nagenoeg onmogelijk is.
 
 ## Programmeerwerk tussendoor
 
@@ -101,7 +101,7 @@ Ik heb wat kleine dingen veranderd in het ontwerp ten opzichte van de wireframe:
 
 ## Prototype ontwikkelen
 
-Het prototype ontwikkelen kostte veel moeite, met veel kleine aanpassingen die ik hier niet allemaal kan opnoemen. Hier is een lijst met alle grote en duidelijk aanwezige veranderingen *en* toevoegingen tijdens het proces.
+Het prototype ontwikkelen kostte veel moeite, met veel kleine aanpassingen die ik hier niet allemaal kan opnoemen. Hier is een lijst met alle grote en duidelijk aanwezige veranderingen _en_ toevoegingen tijdens het proces.
 
 * Volgorde van grafieken veranderd, sinds de content zo beter doorvloeit.
 * Animaties voor de eerste staafdiagrammen.
@@ -116,3 +116,4 @@ Het prototype ontwikkelen kostte veel moeite, met veel kleine aanpassingen die i
 ![Video die door prototype doorloopt](../.gitbook/assets/video_prototype.mp4)
 
 ![Screenshot van prototype zonder gradients](../.gitbook/assets/screenshot_prototype.png)
+

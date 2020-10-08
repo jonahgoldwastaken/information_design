@@ -1,5 +1,5 @@
 ---
-description: Procesboek van Jonah Meijers, klas ID 4, jaar 20/21
+description: 'Procesboek van Jonah Meijers, klas ID 4, jaar 20/21'
 ---
 
 # Information Design

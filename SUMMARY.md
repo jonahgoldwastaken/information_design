@@ -20,3 +20,4 @@
 * [CHRTS](datavisualisatie-2/chrts.md)
 * [Editorial Thinking](datavisualisatie-2/editorial-thinking.md)
 * [Eindopdracht](datavisualisatie-2/eindopdracht.md)
+

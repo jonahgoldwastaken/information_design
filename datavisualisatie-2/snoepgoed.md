@@ -22,8 +22,9 @@ Tijdens de eerste les van Datavisualisatie 2 hebben we geprobeerd een zak snoepg
 
 ## Visualisaties
 
-![Kleur en vorm](../.gitbook/assets/les4_opdracht2_1.jpeg)
+![Kleur en vorm](https://github.com/theonejonahgold/information_design/tree/85ef3e761d911887600e498b28d3f7291f76d405/.gitbook/assets/les4_opdracht2_1.jpeg)
 
-![Grootte en gerepresenteerde kleuren](../.gitbook/assets/les4_opdracht2_2.jpeg)
+![Grootte en gerepresenteerde kleuren](https://github.com/theonejonahgold/information_design/tree/85ef3e761d911887600e498b28d3f7291f76d405/.gitbook/assets/les4_opdracht2_2.jpeg)
 
-![Persoonlijke voorkeur voor smaak](../.gitbook/assets/les4_opdracht2_3.jpeg)
+![Persoonlijke voorkeur voor smaak](https://github.com/theonejonahgold/information_design/tree/85ef3e761d911887600e498b28d3f7291f76d405/.gitbook/assets/les4_opdracht2_3.jpeg)
+
