@@ -15,7 +15,7 @@
 
 ## Datavisualisatie 2
 
-* [Week 1](datavisualisatie-2/week-1.md)
+* [Snoepgoed](datavisualisatie-2/snoepgoed.md)
 * [Encoding en Representation](datavisualisatie-2/encoding-en-representation.md)
 * [CHRTS](datavisualisatie-2/chrts.md)
 * [Editorial Thinking](datavisualisatie-2/editorial-thinking.md)
