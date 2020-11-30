@@ -21,3 +21,7 @@
 * [Editorial Thinking](datavisualisatie-2/editorial-thinking.md)
 * [Eindopdracht](datavisualisatie-2/eindopdracht.md)
 
+## Dataweek
+
+* [Data week](dataweek/data-week.md)
+
