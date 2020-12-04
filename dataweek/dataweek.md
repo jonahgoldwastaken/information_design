@@ -50,7 +50,7 @@ De reden waarom ik dit zelf heb geprogrammeerd, en niet heb gekeken naar andere 
 
 [Bekijk hier het concept](https://dataweek.jonahgold.dev)
 
-Voeg nog even een foto toe Joon!
+![Screenshot van het concept op de website](../.gitbook/assets/screenshot_dataweek.png)
 
 ## Conclusie
 
