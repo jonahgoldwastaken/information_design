@@ -34,6 +34,8 @@ Na wat verder onderzoek gedaan te hebben naar de case kwamen we erachter dat er 
 
 Daarnaast is er ook een boek geschreven over de verhalen van degenen die direct betrokken waren bij de aanslag. De verhalen van ooggetuigen, gewonden, zwaargewonden en overledenen zijn verzameld en het boek "In Memoriam de Blauwburgwal" erover geschreven, onder andere.
 
+Ik ben achter het achterhalen van het e-mailadres van de heer Geukes Foppen aan gegaan. Door contact te zoeken met de uitgeverij van het boek, kon ik binnen een dag het e-mailadres krijgen van de schrijver, waarbij hij ook persoonlijk een mail stuurde en ons een hart onder de riem stook. 
+
 Het stadsarchief bleek, naast dit boek, ook foto's te bezitten over de bomaanslag. Deze bronnen hebben we allemaal gebruikt om ons concept zo compleet, maar ook simpel mogelijk te houden.
 
 ## Concept
@@ -53,3 +55,5 @@ Voeg nog even een foto toe Joon!
 ## Conclusie
 
 Na de bomaanslag is de wal nooit meer geweest wat het ooit was. Het gebouw dat Blauwburgwal 19, 21, 23 en 25 verving huist nu alleen nog maar nummer 19, en heeft lang niet dezelfde gezellige uitstraling als de herenhuizen die platgebombardeerd zijn. De gruwelijke gebeurtenis heeft de wal permanent bestempeld, waar nu gelukkig veel meer over te vinden is.
+
+Fred vond het concept indrukwekkend en leuk, waarbij hij nog wel vertelde dat er veel potentie in zit om verder uit te werken met meer foto's.
