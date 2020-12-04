@@ -23,5 +23,5 @@
 
 ## Dataweek
 
-* [Data week](dataweek/data-week.md)
+* [Dataweek](dataweek/dataweek.md)
 
