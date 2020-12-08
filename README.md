@@ -10,4 +10,5 @@ Dit is mijn procesboek voor het Information Design semester. Ik heb voor elk vak
 
 * [Datavisualisatie 1](datavisualisatie-1/inleiding.md)
 * [Datavisualisatie 2](datavisualisatie-2/snoepgoed.md)
-* [Dataweek](dataweek/dataweek.md)
+* [Dataweek](https://github.com/theonejonahgold/information_design/tree/86e6ed3436723910172062feb71d40b1c7574a97/dataweek/dataweek.md)
+

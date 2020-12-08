@@ -26,7 +26,7 @@ Mijn focus zal liggen op de 10 verste en 10 dichtst bijzijnde bezochte plekken b
 
 ### Schetsen
 
-![Eerste uitwerking schetsen infographic](../.gitbook/assets/locaties_infographic_v2.png)
+![Eerste uitwerking schetsen infographic](../.gitbook/assets/locaties_v2.png)
 
 ### Feedback
 

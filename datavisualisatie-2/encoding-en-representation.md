@@ -55,7 +55,7 @@ De feedback die ik op deze ordeningen kreeg ging voornamelijk in op dat ik de at
 
 Dit zijn de ordeningen die ik heb gemaakt op basis van die feedback:
 
-![Ordening 1, versie 2 met variabelen kleding die ik weg wil doen, schaamteniveau, hoe lang het kledingstuk al weg moet en de hoeveelheid kleuren](../.gitbook/assets/ordening_1_v2.jpg)
+![Ordening 1, versie 2 met variabelen kleding die ik weg wil doen, schaamteniveau, hoe lang het kledingstuk al weg moet en de hoeveelheid kleuren](../.gitbook/assets/ordening_2_v2%20%281%29.jpg)
 
 ![Ordening 2, versie 2](../.gitbook/assets/ordening_2_v2.png)
 

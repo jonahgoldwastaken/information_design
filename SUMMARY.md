@@ -25,3 +25,7 @@
 
 * [Dataweek](dataweek/dataweek.md)
 
+## Project
+
+* [Empower 2.0](project/empower-2.0.md)
+
